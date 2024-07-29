@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 52093d62dc0619243aa097fe7af51e49
+guid: c221b3ce290cf9f41a7333404c351590
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: comida_0
+      name: bomba grande_0
       rect:
         serializedVersion: 2
-        x: 184
-        y: 7205
-        width: 266
-        height: 233
+        x: 212
+        y: 8885
+        width: 151
+        height: 337
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a75343e5efd8fd04a9d3853c8c8d94c5
-      internalID: -1352678970
+      spriteID: dba2f1e173352c043a91eaa70dc445e7
+      internalID: 843114785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_1
+      name: bomba grande_1
       rect:
         serializedVersion: 2
-        x: 762
-        y: 7205
-        width: 263
-        height: 233
+        x: 788
+        y: 8881
+        width: 150
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e32d97a7aaed1d7458fc14eea52172c1
-      internalID: -543881953
+      spriteID: e95314e800fe75c4582198ccb17669b9
+      internalID: -1496542764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_2
+      name: bomba grande_2
       rect:
         serializedVersion: 2
-        x: 1336
-        y: 7205
-        width: 267
-        height: 233
+        x: 1366
+        y: 8881
+        width: 150
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c68fbbfbf88468b4eb160ccac3c46d92
-      internalID: -1340682007
+      spriteID: 1eccb8c86b2bdfd47ac42e178a3838cf
+      internalID: 1334806512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_3
+      name: bomba grande_3
       rect:
         serializedVersion: 2
-        x: 1911
-        y: 7201
-        width: 267
-        height: 237
+        x: 1941
+        y: 8881
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5be640efa3c6380469c4c70f80a5255a
-      internalID: -1522850355
+      spriteID: 1578bc07f49bb794fb81e45fbb19171a
+      internalID: -613526742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_4
+      name: bomba grande_4
       rect:
         serializedVersion: 2
-        x: 2486
-        y: 7201
-        width: 270
-        height: 237
+        x: 2516
+        y: 8881
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 975a9259e6d2fc244912f7ff102c3005
-      internalID: 1324935454
+      spriteID: 797a6ba24326ca64b948e752659d0bdc
+      internalID: 1952238782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_5
+      name: bomba grande_5
       rect:
         serializedVersion: 2
-        x: 3064
-        y: 7201
-        width: 270
-        height: 241
+        x: 3091
+        y: 8881
+        width: 154
+        height: 344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c64f4136c9bb3d49b716c612ac72dd8
-      internalID: -1404938600
+      spriteID: 1443614ced34bba4cbf17dd58914d2a9
+      internalID: 1635504215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_6
+      name: bomba grande_6
       rect:
         serializedVersion: 2
-        x: 3639
-        y: 7201
-        width: 270
-        height: 241
+        x: 3666
+        y: 8877
+        width: 155
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19b4979608ca78f48864f78f0844a3cf
-      internalID: -892367875
+      spriteID: 4f6cad3d6d5b98645a075385d3967b20
+      internalID: 200647006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_7
+      name: bomba grande_7
       rect:
         serializedVersion: 2
-        x: 4213
-        y: 7201
-        width: 274
-        height: 241
+        x: 4242
+        y: 8877
+        width: 154
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c21b472b1fa5344ba7fd9a5408678fd
-      internalID: -253817173
+      spriteID: 4746c23315facf14f94c1dc0e00796bd
+      internalID: -686298280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_8
+      name: bomba grande_8
       rect:
         serializedVersion: 2
-        x: 180
-        y: 6615
-        width: 274
-        height: 245
+        x: 212
+        y: 8292
+        width: 154
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 043c6cc28122a1d4fbcf6cef46b7a97f
-      internalID: 2025950207
+      spriteID: 791508bad3b6f1946a716a1c234420d8
+      internalID: -1167436182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_9
+      name: bomba grande_9
       rect:
         serializedVersion: 2
-        x: 758
-        y: 6615
-        width: 274
-        height: 245
+        x: 787
+        y: 8292
+        width: 155
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dc35be437fe7104aaea981c2516df99
-      internalID: -439166058
+      spriteID: f39a4c3761fd2644fbf6ed707b7b17cb
+      internalID: 1734207345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_10
+      name: bomba grande_10
       rect:
         serializedVersion: 2
-        x: 1333
-        y: 6615
-        width: 276
-        height: 245
+        x: 1362
+        y: 8292
+        width: 155
+        height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f4ee5f2c93c05c4f93e5e17d331f00f
-      internalID: 404246297
+      spriteID: 2b6146f7b4a1e7145848994dcba8af79
+      internalID: 464567572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_11
+      name: bomba grande_11
       rect:
         serializedVersion: 2
-        x: 1907
-        y: 6615
-        width: 278
-        height: 245
+        x: 1937
+        y: 8292
+        width: 157
+        height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +342,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b3439973fa54d9448addf0b4bde007e
-      internalID: 1472527332
+      spriteID: 5a8ed40ad2b3cc4438625c7e70f39c90
+      internalID: -1955229484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_12
+      name: bomba grande_12
       rect:
         serializedVersion: 2
-        x: 2482
-        y: 6615
-        width: 282
-        height: 245
+        x: 2512
+        y: 8288
+        width: 159
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,20 +363,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70a2bb20d5fb0b745bab8902a055807b
-      internalID: 1792368565
+      spriteID: d97d4f4ba86c31042936b2226d6e5351
+      internalID: -1597258537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_13
+      name: bomba grande_13
       rect:
         serializedVersion: 2
-        x: 3060
-        y: 6615
-        width: 278
-        height: 248
+        x: 3089
+        y: 8288
+        width: 157
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,20 +384,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdea55820f13ee8448c192a5e5c93215
-      internalID: 1686282198
+      spriteID: ad18428c8c024b44abb6aa8c612cb577
+      internalID: -715220834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_14
+      name: bomba grande_14
       rect:
         serializedVersion: 2
-        x: 3635
-        y: 6615
-        width: 282
-        height: 248
+        x: 3666
+        y: 8288
+        width: 158
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,20 +405,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d3e45c4802d66f46a2849641c5264d9
-      internalID: -2134426323
+      spriteID: 5d5679a876e88fa409c6a02beb4ca17b
+      internalID: -1373422616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_15
+      name: bomba grande_15
       rect:
         serializedVersion: 2
-        x: 4210
-        y: 6615
-        width: 283
-        height: 249
+        x: 4241
+        y: 8288
+        width: 159
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,20 +426,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d847e9fab3e92664e80eec6883c03848
-      internalID: -1649518676
+      spriteID: b2e299ff66384b942968137f3d29e27a
+      internalID: -1975050584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_16
+      name: bomba grande_16
       rect:
         serializedVersion: 2
-        x: 180
-        y: 6030
-        width: 282
-        height: 251
+        x: 208
+        y: 7704
+        width: 159
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,20 +447,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4371d23c32c5f5a44bc7873d00abb5e2
-      internalID: 618125475
+      spriteID: ab888b4fa2149d94283a26ec8c142553
+      internalID: 1952598138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_17
+      name: bomba grande_17
       rect:
         serializedVersion: 2
-        x: 754
-        y: 6030
-        width: 286
-        height: 251
+        x: 783
+        y: 7700
+        width: 159
+        height: 368
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,20 +468,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aff58adb170743f47be8d19fb387a744
-      internalID: -1062054741
+      spriteID: c8ab5ac1fe517794d91a79b43a299a2a
+      internalID: -1824024735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_18
+      name: bomba grande_18
       rect:
         serializedVersion: 2
-        x: 1329
-        y: 6030
-        width: 285
-        height: 252
+        x: 1358
+        y: 7699
+        width: 163
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,20 +489,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0537d8d1990586e4c9d9cbe6b7048cae
-      internalID: -5384402
+      spriteID: 79e6e69fb4937594a94fa5c2d659192c
+      internalID: -704122017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_19
+      name: bomba grande_19
       rect:
         serializedVersion: 2
-        x: 1904
-        y: 6030
-        width: 289
-        height: 252
+        x: 1937
+        y: 7699
+        width: 159
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,20 +510,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f00e34d6a98788945bbf835e94b58fda
-      internalID: 2086914361
+      spriteID: 7883fcf6303c2e44687926f56737d6e2
+      internalID: 1101271440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_20
+      name: bomba grande_20
       rect:
         serializedVersion: 2
-        x: 2482
-        y: 6030
-        width: 287
-        height: 252
+        x: 2512
+        y: 7699
+        width: 161
+        height: 370
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,20 +531,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c471e82f9249e74fada4131c3748422
-      internalID: -903960201
+      spriteID: 6d7ea180670859e42b718117fcd95073
+      internalID: -147536067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_21
+      name: bomba grande_21
       rect:
         serializedVersion: 2
-        x: 3057
-        y: 6027
-        width: 289
-        height: 257
+        x: 3086
+        y: 7699
+        width: 165
+        height: 373
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,20 +552,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86df7c33cd393334ea6d47e4fdfc940f
-      internalID: -389319939
+      spriteID: 613c35502cacde34a9e33f75983838a9
+      internalID: 809351095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_22
+      name: bomba grande_22
       rect:
         serializedVersion: 2
-        x: 3631
-        y: 6026
-        width: 293
-        height: 259
+        x: 3661
+        y: 7697
+        width: 165
+        height: 376
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,20 +573,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 251003ba6914ad344b3673cf9cc56163
-      internalID: 1403757841
+      spriteID: a75226378edf2044e8a794ec1fefcf85
+      internalID: 527025693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_23
+      name: bomba grande_23
       rect:
         serializedVersion: 2
-        x: 4206
-        y: 6026
-        width: 293
-        height: 259
+        x: 4236
+        y: 7695
+        width: 164
+        height: 378
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,20 +594,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20e2226fe76571342b3b03c9b88b4c1d
-      internalID: -1347439899
+      spriteID: 785c47b6320d56f4f82dfcdda883ff8b
+      internalID: 1545175201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_24
+      name: bomba grande_24
       rect:
         serializedVersion: 2
-        x: 176
-        y: 5444
-        width: 293
-        height: 259
+        x: 208
+        y: 7115
+        width: 164
+        height: 374
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,20 +615,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a68352093693a546a9b937dc98cdb21
-      internalID: -1481324043
+      spriteID: 0356121633db9b745ab615318b0c978e
+      internalID: -1503920926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_25
+      name: bomba grande_25
       rect:
         serializedVersion: 2
-        x: 751
-        y: 5444
-        width: 293
-        height: 259
+        x: 782
+        y: 7115
+        width: 165
+        height: 372
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,20 +636,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebedfecc5b636734cacfaf3d38952fc8
-      internalID: 1795117852
+      spriteID: 0e15bc4acebe96347bca5b10591dc138
+      internalID: 1522402490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_26
+      name: bomba grande_26
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 5444
-        width: 296
-        height: 259
+        x: 1357
+        y: 7115
+        width: 165
+        height: 370
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -657,20 +657,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bb124e7085defa40a92c617238f9c8d
-      internalID: 463090699
+      spriteID: e0e64cf3ddc6e5c44b4c9f53d93daf0f
+      internalID: -1684827518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_27
+      name: bomba grande_27
       rect:
         serializedVersion: 2
-        x: 1904
-        y: 5444
-        width: 292
-        height: 256
+        x: 1937
+        y: 7115
+        width: 159
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,20 +678,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5643cf2104288264288d12ee765eb435
-      internalID: 664545092
+      spriteID: aa0f17ba249b8fb429d6ec56c46657ae
+      internalID: 55584006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_28
+      name: bomba grande_28
       rect:
         serializedVersion: 2
-        x: 2478
-        y: 5444
-        width: 293
-        height: 256
+        x: 2512
+        y: 7116
+        width: 159
+        height: 368
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,20 +699,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 201b674bced35bc49941a11c3febc6c0
-      internalID: 1906884296
+      spriteID: 99ab120c443a1804d9ff07f0ee1cb774
+      internalID: 269050686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_29
+      name: bomba grande_29
       rect:
         serializedVersion: 2
-        x: 3057
-        y: 5444
-        width: 289
-        height: 256
+        x: 3087
+        y: 7120
+        width: 159
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,20 +720,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4202744ad46876a47b870184c8fe2b98
-      internalID: 1856188102
+      spriteID: 177ff67874962d14ca2ef219343e5a25
+      internalID: 1270804549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_30
+      name: bomba grande_30
       rect:
         serializedVersion: 2
-        x: 3631
-        y: 5444
-        width: 289
-        height: 256
+        x: 3666
+        y: 7120
+        width: 159
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,20 +741,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c83bb882800942e4480f25263db96a48
-      internalID: 930484819
+      spriteID: e2846d3820c68e34c8a5670970dedfe5
+      internalID: -311304145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_31
+      name: bomba grande_31
       rect:
         serializedVersion: 2
-        x: 4210
-        y: 5444
-        width: 287
-        height: 255
+        x: 4241
+        y: 7120
+        width: 159
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,20 +762,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7e0243567990a243a8c15246645532d
-      internalID: 1877869340
+      spriteID: 55ff33e32e5a2e44fa89f26f21afebe7
+      internalID: 800250186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_32
+      name: bomba grande_32
       rect:
         serializedVersion: 2
-        x: 176
-        y: 4862
-        width: 289
-        height: 252
+        x: 208
+        y: 6536
+        width: 159
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,20 +783,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84c6cabab9f181c449cea89c4270477e
-      internalID: 1180637443
+      spriteID: 07913e104f51a2d42a4250dca8c2205e
+      internalID: 1444702036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_33
+      name: bomba grande_33
       rect:
         serializedVersion: 2
-        x: 754
-        y: 4862
-        width: 286
-        height: 252
+        x: 787
+        y: 6537
+        width: 155
+        height: 358
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -804,20 +804,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2999a6a5ef1aefe49a43ad57cefe1409
-      internalID: 1599885093
+      spriteID: ccfa64e36fe712e459ec7d98f1e90d18
+      internalID: -593110700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_34
+      name: bomba grande_34
       rect:
         serializedVersion: 2
-        x: 1329
-        y: 4862
-        width: 285
-        height: 252
+        x: 1362
+        y: 6540
+        width: 155
+        height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,20 +825,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5118c07d2a691149ba2bbb9e9fcf033
-      internalID: -658244985
+      spriteID: fbcc7012955339041ae9b14c7126fd45
+      internalID: 1372652400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_35
+      name: bomba grande_35
       rect:
         serializedVersion: 2
-        x: 1907
-        y: 4862
-        width: 282
-        height: 248
+        x: 1937
+        y: 6540
+        width: 155
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,20 +846,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dff10e96020590f4eb2093f77ba246a7
-      internalID: 544291688
+      spriteID: 5f61b3d0982a74c478f34c47c7cf0c56
+      internalID: -198199057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_36
+      name: bomba grande_36
       rect:
         serializedVersion: 2
-        x: 2482
-        y: 4862
-        width: 282
-        height: 248
+        x: 2516
+        y: 6540
+        width: 154
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -867,20 +867,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a11055855ed0bd448295880dc601982
-      internalID: -1970445849
+      spriteID: 8ea45f9e9de09534fb17028763261360
+      internalID: -744779700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_37
+      name: bomba grande_37
       rect:
         serializedVersion: 2
-        x: 3060
-        y: 4862
-        width: 280
-        height: 248
+        x: 3091
+        y: 6541
+        width: 155
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,20 +888,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2632e58771ada904f9f569a10474aa2a
-      internalID: -236476066
+      spriteID: 4371f4ced30f0ab44abe10a0d12e70c7
+      internalID: 1710024176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_38
+      name: bomba grande_38
       rect:
         serializedVersion: 2
-        x: 3635
-        y: 4862
-        width: 281
-        height: 248
+        x: 3666
+        y: 6543
+        width: 155
+        height: 348
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -909,20 +909,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d53973fd6619aed44803482190abaa44
-      internalID: 1827594338
+      spriteID: e04bb0573a10145419931644022a30ff
+      internalID: 1876487968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_39
+      name: bomba grande_39
       rect:
         serializedVersion: 2
-        x: 4213
-        y: 4862
-        width: 278
-        height: 248
+        x: 4245
+        y: 6545
+        width: 151
+        height: 344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -930,20 +930,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51e73c2becceb664d9e4151297d2c12f
-      internalID: 635376399
+      spriteID: ac971de5124af4e48ab4d6393140b4dd
+      internalID: 399494384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_40
+      name: bomba grande_40
       rect:
         serializedVersion: 2
-        x: 180
-        y: 4280
-        width: 278
-        height: 244
+        x: 212
+        y: 5961
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -951,20 +951,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a36ad5357c156b4194d12c4e6ec083d
-      internalID: -946761340
+      spriteID: 26f2e0741d1cc3144afa94fc38cea16a
+      internalID: 1412156300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_41
+      name: bomba grande_41
       rect:
         serializedVersion: 2
-        x: 756
-        y: 4280
-        width: 276
-        height: 244
+        x: 787
+        y: 5961
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,20 +972,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f0f82b13916fd8488f6bdbafcd5a6e7
-      internalID: -1020476524
+      spriteID: 63ef9cdefa19ab941893b81e99f0ca9b
+      internalID: -892617803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_42
+      name: bomba grande_42
       rect:
         serializedVersion: 2
-        x: 1333
-        y: 4280
-        width: 274
-        height: 244
+        x: 1366
+        y: 5961
+        width: 150
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -993,20 +993,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02bd67bd2fab8664a896c26f073b8022
-      internalID: 1480348496
+      spriteID: dbb440480d8cb3a4aa1cac1b828a155b
+      internalID: 371647035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_43
+      name: bomba grande_43
       rect:
         serializedVersion: 2
-        x: 1908
-        y: 4280
-        width: 277
-        height: 244
+        x: 1941
+        y: 5965
+        width: 151
+        height: 336
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,20 +1014,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91fc86233d96a294991c2a60f56603d7
-      internalID: -153747964
+      spriteID: df06b994f3a0f9445bae31637e2977ef
+      internalID: 460400824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_44
+      name: bomba grande_44
       rect:
         serializedVersion: 2
-        x: 2486
-        y: 4280
-        width: 274
-        height: 241
+        x: 2516
+        y: 5961
+        width: 151
+        height: 341
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,20 +1035,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ef7a36d5fb9e2548adcc4c2ff909139
-      internalID: 2009493506
+      spriteID: a15bcf39874db49469078f20b854528e
+      internalID: -1110889297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_45
+      name: bomba grande_45
       rect:
         serializedVersion: 2
-        x: 3061
-        y: 4280
-        width: 274
-        height: 241
+        x: 3091
+        y: 5961
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,20 +1056,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82699668e2afcc7489b65ebc6345db1f
-      internalID: -1872967224
+      spriteID: c850bc9895c8c2343a79e72c1559138c
+      internalID: -546106261
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_46
+      name: bomba grande_46
       rect:
         serializedVersion: 2
-        x: 3639
-        y: 4280
-        width: 270
-        height: 241
+        x: 3670
+        y: 5961
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1077,20 +1077,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d29cb65fcbb0c1649a903077cb19ae22
-      internalID: -1505387452
+      spriteID: 33352f79bce2c1b448a1503cfd811e7e
+      internalID: -1691154601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_47
+      name: bomba grande_47
       rect:
         serializedVersion: 2
-        x: 4213
-        y: 4283
-        width: 271
-        height: 238
+        x: 4245
+        y: 5961
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1098,20 +1098,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12c2fe5429d46d54aae2585c8401cf89
-      internalID: -1191945971
+      spriteID: 76c15c735090f7a429bfe1452cc20cb3
+      internalID: -959290522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_48
+      name: bomba grande_48
       rect:
         serializedVersion: 2
-        x: 184
-        y: 3698
-        width: 266
-        height: 237
+        x: 212
+        y: 5377
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1119,20 +1119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1145a06f3baac4646ae9599cd4601852
-      internalID: 254958013
+      spriteID: 95a1230ffdc89b0419eda70805ee301e
+      internalID: 1101117815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_49
+      name: bomba grande_49
       rect:
         serializedVersion: 2
-        x: 758
-        y: 3698
-        width: 270
-        height: 237
+        x: 787
+        y: 5377
+        width: 155
+        height: 345
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1140,20 +1140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5337bc78beee904faa68b3b2c7a9ffd
-      internalID: -272856062
+      spriteID: f30878a80a96a904ab38bf53351bd93f
+      internalID: -990135622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_50
+      name: bomba grande_50
       rect:
         serializedVersion: 2
-        x: 1336
-        y: 3698
-        width: 267
-        height: 237
+        x: 1362
+        y: 5373
+        width: 155
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,20 +1161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 873d3e89f3020004faedd8d0a6c56d56
-      internalID: -2092171346
+      spriteID: de1d64f02115b3b418de08eccdb32036
+      internalID: 1207957402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_51
+      name: bomba grande_51
       rect:
         serializedVersion: 2
-        x: 1911
-        y: 3698
-        width: 267
-        height: 237
+        x: 1939
+        y: 5373
+        width: 153
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1182,20 +1182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ff354eae316ed04ea126e30317880f3
-      internalID: -848819154
+      spriteID: 86e509dd2fbb1524092aceeb6dfd2b69
+      internalID: 911059884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_52
+      name: bomba grande_52
       rect:
         serializedVersion: 2
-        x: 2489
-        y: 3699
-        width: 264
-        height: 232
+        x: 2516
+        y: 5372
+        width: 153
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1203,20 +1203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9a873df95698cd4fb14422061041843
-      internalID: 386890474
+      spriteID: 4d8d888630e4f47459a10ba62d88025f
+      internalID: -1041117852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_53
+      name: bomba grande_53
       rect:
         serializedVersion: 2
-        x: 3064
-        y: 3698
-        width: 267
-        height: 237
+        x: 3091
+        y: 5372
+        width: 155
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,20 +1224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fd97fafce7b9d146bd9a9ddbbb37fd6
-      internalID: -2116482179
+      spriteID: a58feb3ad651f7c438f2b4d4ad1ddce4
+      internalID: -1532988438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_54
+      name: bomba grande_54
       rect:
         serializedVersion: 2
-        x: 3639
-        y: 3698
-        width: 266
-        height: 237
+        x: 3666
+        y: 5372
+        width: 155
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1245,20 +1245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7001cc7d993e30d489b3eafcf16b60da
-      internalID: -455546171
+      spriteID: ab6e5a4d09e15bd4086c927363f9fbbc
+      internalID: -337046396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_55
+      name: bomba grande_55
       rect:
         serializedVersion: 2
-        x: 4217
-        y: 3698
-        width: 267
-        height: 237
+        x: 4241
+        y: 5372
+        width: 155
+        height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1266,20 +1266,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 117302a2562939c4ebfd15a6d6694d17
-      internalID: 237490755
+      spriteID: 721424a9f77efbc488671c23f3232507
+      internalID: 214415283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_56
+      name: bomba grande_56
       rect:
         serializedVersion: 2
-        x: 184
-        y: 3116
-        width: 270
-        height: 237
+        x: 208
+        y: 4786
+        width: 159
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,20 +1287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 836441dea04c4f64fa89ddd80284b416
-      internalID: 504080609
+      spriteID: 2f2b534002412be4482e9e3535592409
+      internalID: 310434557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_57
+      name: bomba grande_57
       rect:
         serializedVersion: 2
-        x: 758
-        y: 3112
-        width: 271
-        height: 241
+        x: 787
+        y: 4784
+        width: 155
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1308,20 +1308,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cde72e8610515dc4aace8ae43616ce72
-      internalID: -1841510940
+      spriteID: ca0962d93649ee141bd8b8ca26cc41f6
+      internalID: 104938904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_58
+      name: bomba grande_58
       rect:
         serializedVersion: 2
-        x: 1333
-        y: 3112
-        width: 274
-        height: 241
+        x: 1362
+        y: 4784
+        width: 155
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1329,20 +1329,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c552f926b42e4b43aeb3ae26638c081
-      internalID: 1324630958
+      spriteID: 93a87086c2a0ba84bad1e0626151b968
+      internalID: -785779696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_59
+      name: bomba grande_59
       rect:
         serializedVersion: 2
-        x: 1909
-        y: 3112
-        width: 273
-        height: 241
+        x: 1937
+        y: 4784
+        width: 159
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,20 +1350,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8707a5a9348bfa84a828a9e074137270
-      internalID: 1096264022
+      spriteID: 5e27aba91e9383f419a5b4e88c591018
+      internalID: 458595669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_60
+      name: bomba grande_60
       rect:
         serializedVersion: 2
-        x: 2486
-        y: 3112
-        width: 274
-        height: 244
+        x: 2512
+        y: 4784
+        width: 159
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1371,20 +1371,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6a7b02ad3cdb9e47b7a0de49b3e9325
-      internalID: 1795000365
+      spriteID: 6836be7f0d571824d9cf103ad229aa42
+      internalID: 2051869938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_61
+      name: bomba grande_61
       rect:
         serializedVersion: 2
-        x: 3060
-        y: 3112
-        width: 278
-        height: 245
+        x: 3087
+        y: 4784
+        width: 159
+        height: 362
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1392,20 +1392,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a431f28ed4704be4290e0b2bbebac255
-      internalID: -346923146
+      spriteID: 5fe5ac6ca4546224d9ee1e211b6c8de4
+      internalID: 1594708043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_62
+      name: bomba grande_62
       rect:
         serializedVersion: 2
-        x: 3635
-        y: 3112
-        width: 278
-        height: 245
+        x: 3664
+        y: 4784
+        width: 161
+        height: 364
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1413,20 +1413,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5000768e563525b408028e3a59bd937a
-      internalID: 1043372369
+      spriteID: 1dc2d9883a74f38429a3bf23c40bc356
+      internalID: 257310696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_63
+      name: bomba grande_63
       rect:
         serializedVersion: 2
-        x: 4211
-        y: 3112
-        width: 280
-        height: 245
+        x: 4241
+        y: 4780
+        width: 159
+        height: 368
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1434,20 +1434,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc3ad19bdc28d2b44b4051ef00920cca
-      internalID: -407876906
+      spriteID: 5ce8415e123b217489b14921e979bba7
+      internalID: 1234407366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_64
+      name: bomba grande_64
       rect:
         serializedVersion: 2
-        x: 180
-        y: 2526
-        width: 281
-        height: 249
+        x: 208
+        y: 4195
+        width: 159
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1455,20 +1455,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea358dc03faa04547bd09c064469f986
-      internalID: -542919782
+      spriteID: 0282b10e4e671034c8d858b0d46e6edf
+      internalID: -185070635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_65
+      name: bomba grande_65
       rect:
         serializedVersion: 2
-        x: 754
-        y: 2526
-        width: 282
-        height: 249
+        x: 783
+        y: 4195
+        width: 163
+        height: 370
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1476,20 +1476,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8c455aa0ea229145a5ade072a69a2b0
-      internalID: 1318094188
+      spriteID: fb47749115d8ff44db8802842b3d31ca
+      internalID: 1874885033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_66
+      name: bomba grande_66
       rect:
         serializedVersion: 2
-        x: 1329
-        y: 2526
-        width: 285
-        height: 249
+        x: 1357
+        y: 4195
+        width: 165
+        height: 370
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1497,20 +1497,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91a7e1b3a1a001841bf73e92ed0491cf
-      internalID: 1683104548
+      spriteID: b4c648b429f001b4fbc63f6b0d57926d
+      internalID: -886136930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_67
+      name: bomba grande_67
       rect:
         serializedVersion: 2
-        x: 1905
-        y: 2526
-        width: 284
-        height: 252
+        x: 1933
+        y: 4195
+        width: 163
+        height: 370
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1518,20 +1518,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71495ccd42dbcdc44aa7e0095de44975
-      internalID: -301908370
+      spriteID: a096a8f31d319854db74d9b2f52a50a5
+      internalID: 1770572253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_68
+      name: bomba grande_68
       rect:
         serializedVersion: 2
-        x: 2482
-        y: 2526
-        width: 285
-        height: 252
+        x: 2512
+        y: 4195
+        width: 163
+        height: 373
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1539,20 +1539,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d25218edf6ee6446be9d8014a973fa1
-      internalID: 6978938
+      spriteID: e5e7ef5b4305243459e0874a15615935
+      internalID: 1833284482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_69
+      name: bomba grande_69
       rect:
         serializedVersion: 2
-        x: 3057
-        y: 2523
-        width: 289
-        height: 255
+        x: 3086
+        y: 4192
+        width: 165
+        height: 377
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1560,20 +1560,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0edecce79156d584d87c9c0585f2146e
-      internalID: 1104326224
+      spriteID: 5d023227c78b6804ea229c0c10a228bb
+      internalID: -780852550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_70
+      name: bomba grande_70
       rect:
         serializedVersion: 2
-        x: 3631
-        y: 2523
-        width: 289
-        height: 255
+        x: 3661
+        y: 4191
+        width: 165
+        height: 378
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1581,20 +1581,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7698cd4789788a46b814c28448d1668
-      internalID: -10653349
+      spriteID: 2b5bdaa07c5993e4bb5bbb4b2ef067bf
+      internalID: 680138952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_71
+      name: bomba grande_71
       rect:
         serializedVersion: 2
-        x: 4208
-        y: 2523
-        width: 291
-        height: 255
+        x: 4236
+        y: 4195
+        width: 164
+        height: 374
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1602,20 +1602,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebaf67651c144ce41be5aa27c6f056bf
-      internalID: -1957130514
+      spriteID: 9f262f20b0d1cd147b5000d537c2a825
+      internalID: -2017266274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_72
+      name: bomba grande_72
       rect:
         serializedVersion: 2
-        x: 176
-        y: 1941
-        width: 293
-        height: 255
+        x: 208
+        y: 3611
+        width: 163
+        height: 372
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1623,20 +1623,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c29eec56a40f4864db5aa8653d06dd90
-      internalID: -1137517260
+      spriteID: 4db138180451b454ebfa3a17d2492ef1
+      internalID: 814784687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_73
+      name: bomba grande_73
       rect:
         serializedVersion: 2
-        x: 751
-        y: 1937
-        width: 293
-        height: 259
+        x: 782
+        y: 3611
+        width: 165
+        height: 370
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1644,20 +1644,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a47b4610c11611548aca237389ee301e
-      internalID: 2009798542
+      spriteID: 64ad04f264e9638449903cf00080730a
+      internalID: -1132872052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_74
+      name: bomba grande_74
       rect:
         serializedVersion: 2
-        x: 1325
-        y: 1937
-        width: 297
-        height: 262
+        x: 1358
+        y: 3611
+        width: 163
+        height: 370
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1665,20 +1665,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2b11763f78be4247b405f3ab9a28a50
-      internalID: 1089481505
+      spriteID: 26fc7f6cc7c35e046bd58324988275c7
+      internalID: -2144357743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_75
+      name: bomba grande_75
       rect:
         serializedVersion: 2
-        x: 1904
-        y: 1937
-        width: 292
-        height: 259
+        x: 1937
+        y: 3611
+        width: 159
+        height: 369
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1686,20 +1686,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c4b92e2063c7ce4c89e226ee7906b17
-      internalID: 415288519
+      spriteID: 98c4d331221f11843a5e8399ad50aa20
+      internalID: -1812223886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_76
+      name: bomba grande_76
       rect:
         serializedVersion: 2
-        x: 2478
-        y: 1941
-        width: 293
-        height: 255
+        x: 2512
+        y: 3612
+        width: 159
+        height: 368
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1707,20 +1707,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93a1f15e78f7ec14697f7a06f375c9ef
-      internalID: 1198830275
+      spriteID: 433a9bb5e342abc479eb45366a65be8f
+      internalID: 149240999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_77
+      name: bomba grande_77
       rect:
         serializedVersion: 2
-        x: 3057
-        y: 1941
-        width: 289
-        height: 255
+        x: 3087
+        y: 3616
+        width: 159
+        height: 362
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1728,20 +1728,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5a4a3ec4412c2f40bb92b66a6037706
-      internalID: -960141572
+      spriteID: 9f26ab5aabc47c442b4ab01470a2556c
+      internalID: 1555834666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_78
+      name: bomba grande_78
       rect:
         serializedVersion: 2
-        x: 3631
-        y: 1941
-        width: 289
-        height: 255
+        x: 3666
+        y: 3616
+        width: 159
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1749,20 +1749,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6d109e62ee6f0c4a9e2a4b3c6fccc17
-      internalID: -972956153
+      spriteID: 18741d44415123140a26fa0f5116ee86
+      internalID: -1728918604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_79
+      name: bomba grande_79
       rect:
         serializedVersion: 2
-        x: 4210
-        y: 1941
-        width: 288
-        height: 253
+        x: 4241
+        y: 3616
+        width: 159
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1770,20 +1770,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c2e18d7f9622a0408311826c0b3f4c9
-      internalID: -906111690
+      spriteID: f464a2ebe16d71f4c9452e782145f4c2
+      internalID: -271697869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_80
+      name: bomba grande_80
       rect:
         serializedVersion: 2
-        x: 176
-        y: 1355
-        width: 289
-        height: 256
+        x: 208
+        y: 3032
+        width: 159
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1791,20 +1791,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35c82d65139b4e04a95114c91f9be261
-      internalID: 1819499189
+      spriteID: 6443c1a467bf7a2429afabd20f3ece81
+      internalID: -1408416910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_81
+      name: bomba grande_81
       rect:
         serializedVersion: 2
-        x: 754
-        y: 1359
-        width: 286
-        height: 251
+        x: 787
+        y: 3033
+        width: 155
+        height: 358
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1812,20 +1812,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d8df501ee9f0b34f95a9de147936a9c
-      internalID: 355414468
+      spriteID: 2c90c4192cc08dc428023feaaf827a6f
+      internalID: 956612232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_82
+      name: bomba grande_82
       rect:
         serializedVersion: 2
-        x: 1329
-        y: 1359
-        width: 285
-        height: 248
+        x: 1362
+        y: 3036
+        width: 155
+        height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1833,20 +1833,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07c489f5ce5cc9f4c8f200b642d5701f
-      internalID: -655593596
+      spriteID: 7c1bc3eb59e81d247943debc92a0ab6f
+      internalID: 1606612228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_83
+      name: bomba grande_83
       rect:
         serializedVersion: 2
-        x: 1907
-        y: 1359
-        width: 282
-        height: 248
+        x: 1937
+        y: 3036
+        width: 155
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1854,20 +1854,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb001975e41ff9a4ea8f77ebe34ca92b
-      internalID: 572982288
+      spriteID: ddf6f713af3ff1d4f8952b8d16107240
+      internalID: -1033039831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_84
+      name: bomba grande_84
       rect:
         serializedVersion: 2
-        x: 2482
-        y: 1359
-        width: 282
-        height: 248
+        x: 2516
+        y: 3036
+        width: 155
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1875,20 +1875,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a67e17a57bc51c42b722b890bca26c3
-      internalID: -2146843750
+      spriteID: 8ddb8af09ce6b81449c5e123f370f1fe
+      internalID: -193590806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_85
+      name: bomba grande_85
       rect:
         serializedVersion: 2
-        x: 3060
-        y: 1359
-        width: 278
-        height: 248
+        x: 3091
+        y: 3036
+        width: 155
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1896,20 +1896,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c3a62fb07fc41247befb027ecd4c436
-      internalID: 1741546591
+      spriteID: 9fe242bce7743884baf8f64d1fe25894
+      internalID: 1941198037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_86
+      name: bomba grande_86
       rect:
         serializedVersion: 2
-        x: 3635
-        y: 1359
-        width: 278
-        height: 247
+        x: 3666
+        y: 3037
+        width: 155
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1917,20 +1917,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21488453fa824a54c82fab58e5f8a452
-      internalID: -2062183945
+      spriteID: e98076c88f64d49478b0a391270018ba
+      internalID: -1183245025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_87
+      name: bomba grande_87
       rect:
         serializedVersion: 2
-        x: 4213
-        y: 1359
-        width: 278
-        height: 244
+        x: 4245
+        y: 3041
+        width: 151
+        height: 344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1938,20 +1938,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce9365b0be6c8df42ab6cf4d4599ed72
-      internalID: -1648004959
+      spriteID: b7fb5012300f1fc428b3c0bafcb17036
+      internalID: -1567441031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_88
+      name: bomba grande_88
       rect:
         serializedVersion: 2
-        x: 180
-        y: 777
-        width: 278
-        height: 244
+        x: 212
+        y: 2457
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1959,20 +1959,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 815384e17eb10c344bb2380005b53c99
-      internalID: -1149390869
+      spriteID: e22f10111e6310e409d1e5078b1ed3c0
+      internalID: 1246592423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_89
+      name: bomba grande_89
       rect:
         serializedVersion: 2
-        x: 758
-        y: 777
-        width: 274
-        height: 241
+        x: 787
+        y: 2457
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1980,20 +1980,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e491db5c18cc1de48bd16623dc9cf46a
-      internalID: -1398972710
+      spriteID: 9583efdae29a8a64788a7472c5752a28
+      internalID: -628329388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_90
+      name: bomba grande_90
       rect:
         serializedVersion: 2
-        x: 1333
-        y: 777
-        width: 274
-        height: 241
+        x: 1366
+        y: 2457
+        width: 150
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2001,20 +2001,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5a0b0f628bb2ec45ae3ca2907a1651a
-      internalID: -139380057
+      spriteID: 59d7dec071673e34d8942db0eb0df224
+      internalID: -1763101479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_91
+      name: bomba grande_91
       rect:
         serializedVersion: 2
-        x: 1911
-        y: 777
-        width: 271
-        height: 241
+        x: 1941
+        y: 2457
+        width: 151
+        height: 341
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2022,20 +2022,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4e963c04ff6c844d8cda73ba801777d
-      internalID: 469128768
+      spriteID: 4c37dd7ddf113b34da43fe0c87351eb4
+      internalID: 836531968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_92
+      name: bomba grande_92
       rect:
         serializedVersion: 2
-        x: 2486
-        y: 777
-        width: 270
-        height: 241
+        x: 2516
+        y: 2461
+        width: 151
+        height: 337
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2043,20 +2043,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e030b5bb1d6c53d43a1073ee514a60e4
-      internalID: 842535213
+      spriteID: f61336159621d1344876ef5b64b311f8
+      internalID: 1564586440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_93
+      name: bomba grande_93
       rect:
         serializedVersion: 2
-        x: 3064
-        y: 777
-        width: 267
-        height: 240
+        x: 3092
+        y: 2457
+        width: 150
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2064,20 +2064,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc0899bb1089c0942bb109ada6e16619
-      internalID: -1439968027
+      spriteID: 48373a0be53e304479201bef23aa7957
+      internalID: 205264707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_94
+      name: bomba grande_94
       rect:
         serializedVersion: 2
-        x: 3639
-        y: 777
-        width: 270
-        height: 237
+        x: 3670
+        y: 2457
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2085,20 +2085,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0108eb180d15e748a6e0543af0ca39a
-      internalID: 1828131771
+      spriteID: 90c5b6a9ee8851243bd3143f41553fa5
+      internalID: 1888015208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_95
+      name: bomba grande_95
       rect:
         serializedVersion: 2
-        x: 4217
-        y: 780
-        width: 267
-        height: 234
+        x: 4245
+        y: 2457
+        width: 151
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2106,20 +2106,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96c3e269d92846447a77832ac0d85912
-      internalID: 1108725327
+      spriteID: 0a91261bb81af634eb3d5b7606fe1681
+      internalID: -1018388035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_96
+      name: bomba grande_96
       rect:
         serializedVersion: 2
-        x: 184
-        y: 195
-        width: 266
-        height: 233
+        x: 212
+        y: 1873
+        width: 151
+        height: 344
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2127,20 +2127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb28d35c621d5284e91fc2dc24be3f9c
-      internalID: -923743154
+      spriteID: 478cc2fbd67026e4f9e1c04600e81015
+      internalID: -1672446238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_97
+      name: bomba grande_97
       rect:
         serializedVersion: 2
-        x: 762
-        y: 195
-        width: 263
-        height: 233
+        x: 787
+        y: 1873
+        width: 155
+        height: 345
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2148,20 +2148,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec9a85d766eb7b142ad8aadd86f1e7d2
-      internalID: 871310498
+      spriteID: c2beb85b46a269342939dcfbcc9f3bfe
+      internalID: 1336002862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_98
+      name: bomba grande_98
       rect:
         serializedVersion: 2
-        x: 1336
-        y: 195
-        width: 264
-        height: 233
+        x: 1362
+        y: 1869
+        width: 155
+        height: 350
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2169,20 +2169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba2d8cc8a3c9c0f4395dbb0f367bf217
-      internalID: -1798547847
+      spriteID: 52d5a5e40db9c064ca31fbc23c191f38
+      internalID: 374979038
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_99
+      name: bomba grande_99
       rect:
         serializedVersion: 2
-        x: 1911
-        y: 195
-        width: 267
-        height: 233
+        x: 1937
+        y: 1868
+        width: 155
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2190,20 +2190,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6ba0feb8fa172a47925415162e396bb
-      internalID: -998386005
+      spriteID: efb5c2cb805b3e1439e1bd8eebb06ae1
+      internalID: -1756710401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_100
+      name: bomba grande_100
       rect:
         serializedVersion: 2
-        x: 2489
-        y: 195
-        width: 264
-        height: 233
+        x: 2516
+        y: 1868
+        width: 155
+        height: 351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2211,20 +2211,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c4a54fba50184f49b208a79a175d2b4
-      internalID: -1035521922
+      spriteID: 9483343a0dd42fd4bb2ff104577a44b6
+      internalID: -710072153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_101
+      name: bomba grande_101
       rect:
         serializedVersion: 2
-        x: 3064
-        y: 195
-        width: 263
-        height: 233
+        x: 3091
+        y: 1868
+        width: 155
+        height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2232,20 +2232,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af337171071023f4e9df5e336e06a87e
-      internalID: -2129393774
+      spriteID: e412520357b4ace40bbdb13f6ff65d97
+      internalID: -1539066915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_102
+      name: bomba grande_102
       rect:
         serializedVersion: 2
-        x: 3639
-        y: 195
-        width: 266
-        height: 233
+        x: 3666
+        y: 1868
+        width: 155
+        height: 355
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2253,20 +2253,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c711fd0a9d796ad479a2df9b66ab111c
-      internalID: -733508440
+      spriteID: 248063bcd46a4cc48bfa6b3c72f42c69
+      internalID: 400514640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comida_103
+      name: bomba grande_103
       rect:
         serializedVersion: 2
-        x: 4217
-        y: 195
-        width: 263
-        height: 233
+        x: 4241
+        y: 1864
+        width: 159
+        height: 359
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2274,8 +2274,386 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b56f7a9a22bbf249a6a7b6343eb7d67
-      internalID: 352574870
+      spriteID: 6f001a1385cc0d84faa46f0bd98cd4a7
+      internalID: -1779206832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1280
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c737f5ae9a3254cae9294fc4db9ac0
+      internalID: -1318647722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_105
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1280
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f377e3a2c82f4b646a3624828cdc21f4
+      internalID: 2036603225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_106
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1280
+        width: 159
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33ca6509cf244941896fb6c76c0e344
+      internalID: 66545236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_107
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1280
+        width: 159
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2e8241f1e35e408f8892e2b9c51cc
+      internalID: -1605383614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_108
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1275
+        width: 159
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d9e6e6c0fe8064a880a06b738e947f
+      internalID: -1733782226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_109
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 1275
+        width: 163
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfda6242b60639b4c9c403ab4e78cf86
+      internalID: 164460538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_110
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 1275
+        width: 165
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d34fe3b439f08844b74c02c254cf62b
+      internalID: -1560378429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_111
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 1275
+        width: 163
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec31fad1b8868d4e9b81ea0c9c775f0
+      internalID: 1115366844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_112
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 691
+        width: 164
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5407be7113e1b49b57258836104be6
+      internalID: 468560243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_113
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 687
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c43bd18ef3133498b8e2eac3b384aa
+      internalID: 668016541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_114
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 687
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd8865a0ce4fae48b71346ed53b9f5d
+      internalID: 33513545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_115
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 687
+        width: 164
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a51ca150435edb4d9eeb3477b6e7b16
+      internalID: -29845581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_116
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 687
+        width: 167
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd8392ecfd6b2144a9b85e0ca32b3ea
+      internalID: -118477174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_117
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 687
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddad2b47f83c3443926898d36ed63f3
+      internalID: -1091730568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_118
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 687
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747db6a2db8d4f144950f2fb765695bf
+      internalID: 1321433045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_119
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 687
+        width: 164
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ed00afa12e45344bdf0f4e5c329dd8
+      internalID: -1370604026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_120
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 103
+        width: 167
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45159b527a502c84b852af1cd060b3c0
+      internalID: -1457782255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_121
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 103
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72011c274b08e1d48ac07c1dd7ebc7a5
+      internalID: -472704942
       vertices: []
       indices: 
       edges: []
@@ -2291,110 +2669,128 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      comida_0: -1352678970
-      comida_1: -543881953
-      comida_10: 404246297
-      comida_100: -1035521922
-      comida_101: -2129393774
-      comida_102: -733508440
-      comida_103: 352574870
-      comida_11: 1472527332
-      comida_12: 1792368565
-      comida_13: 1686282198
-      comida_14: -2134426323
-      comida_15: -1649518676
-      comida_16: 618125475
-      comida_17: -1062054741
-      comida_18: -5384402
-      comida_19: 2086914361
-      comida_2: -1340682007
-      comida_20: -903960201
-      comida_21: -389319939
-      comida_22: 1403757841
-      comida_23: -1347439899
-      comida_24: -1481324043
-      comida_25: 1795117852
-      comida_26: 463090699
-      comida_27: 664545092
-      comida_28: 1906884296
-      comida_29: 1856188102
-      comida_3: -1522850355
-      comida_30: 930484819
-      comida_31: 1877869340
-      comida_32: 1180637443
-      comida_33: 1599885093
-      comida_34: -658244985
-      comida_35: 544291688
-      comida_36: -1970445849
-      comida_37: -236476066
-      comida_38: 1827594338
-      comida_39: 635376399
-      comida_4: 1324935454
-      comida_40: -946761340
-      comida_41: -1020476524
-      comida_42: 1480348496
-      comida_43: -153747964
-      comida_44: 2009493506
-      comida_45: -1872967224
-      comida_46: -1505387452
-      comida_47: -1191945971
-      comida_48: 254958013
-      comida_49: -272856062
-      comida_5: -1404938600
-      comida_50: -2092171346
-      comida_51: -848819154
-      comida_52: 386890474
-      comida_53: -2116482179
-      comida_54: -455546171
-      comida_55: 237490755
-      comida_56: 504080609
-      comida_57: -1841510940
-      comida_58: 1324630958
-      comida_59: 1096264022
-      comida_6: -892367875
-      comida_60: 1795000365
-      comida_61: -346923146
-      comida_62: 1043372369
-      comida_63: -407876906
-      comida_64: -542919782
-      comida_65: 1318094188
-      comida_66: 1683104548
-      comida_67: -301908370
-      comida_68: 6978938
-      comida_69: 1104326224
-      comida_7: -253817173
-      comida_70: -10653349
-      comida_71: -1957130514
-      comida_72: -1137517260
-      comida_73: 2009798542
-      comida_74: 1089481505
-      comida_75: 415288519
-      comida_76: 1198830275
-      comida_77: -960141572
-      comida_78: -972956153
-      comida_79: -906111690
-      comida_8: 2025950207
-      comida_80: 1819499189
-      comida_81: 355414468
-      comida_82: -655593596
-      comida_83: 572982288
-      comida_84: -2146843750
-      comida_85: 1741546591
-      comida_86: -2062183945
-      comida_87: -1648004959
-      comida_88: -1149390869
-      comida_89: -1398972710
-      comida_9: -439166058
-      comida_90: -139380057
-      comida_91: 469128768
-      comida_92: 842535213
-      comida_93: -1439968027
-      comida_94: 1828131771
-      comida_95: 1108725327
-      comida_96: -923743154
-      comida_97: 871310498
-      comida_98: -1798547847
-      comida_99: -998386005
+      bomba grande_0: 843114785
+      bomba grande_1: -1496542764
+      bomba grande_10: 464567572
+      bomba grande_100: -710072153
+      bomba grande_101: -1539066915
+      bomba grande_102: 400514640
+      bomba grande_103: -1779206832
+      bomba grande_104: -1318647722
+      bomba grande_105: 2036603225
+      bomba grande_106: 66545236
+      bomba grande_107: -1605383614
+      bomba grande_108: -1733782226
+      bomba grande_109: 164460538
+      bomba grande_11: -1955229484
+      bomba grande_110: -1560378429
+      bomba grande_111: 1115366844
+      bomba grande_112: 468560243
+      bomba grande_113: 668016541
+      bomba grande_114: 33513545
+      bomba grande_115: -29845581
+      bomba grande_116: -118477174
+      bomba grande_117: -1091730568
+      bomba grande_118: 1321433045
+      bomba grande_119: -1370604026
+      bomba grande_12: -1597258537
+      bomba grande_120: -1457782255
+      bomba grande_121: -472704942
+      bomba grande_13: -715220834
+      bomba grande_14: -1373422616
+      bomba grande_15: -1975050584
+      bomba grande_16: 1952598138
+      bomba grande_17: -1824024735
+      bomba grande_18: -704122017
+      bomba grande_19: 1101271440
+      bomba grande_2: 1334806512
+      bomba grande_20: -147536067
+      bomba grande_21: 809351095
+      bomba grande_22: 527025693
+      bomba grande_23: 1545175201
+      bomba grande_24: -1503920926
+      bomba grande_25: 1522402490
+      bomba grande_26: -1684827518
+      bomba grande_27: 55584006
+      bomba grande_28: 269050686
+      bomba grande_29: 1270804549
+      bomba grande_3: -613526742
+      bomba grande_30: -311304145
+      bomba grande_31: 800250186
+      bomba grande_32: 1444702036
+      bomba grande_33: -593110700
+      bomba grande_34: 1372652400
+      bomba grande_35: -198199057
+      bomba grande_36: -744779700
+      bomba grande_37: 1710024176
+      bomba grande_38: 1876487968
+      bomba grande_39: 399494384
+      bomba grande_4: 1952238782
+      bomba grande_40: 1412156300
+      bomba grande_41: -892617803
+      bomba grande_42: 371647035
+      bomba grande_43: 460400824
+      bomba grande_44: -1110889297
+      bomba grande_45: -546106261
+      bomba grande_46: -1691154601
+      bomba grande_47: -959290522
+      bomba grande_48: 1101117815
+      bomba grande_49: -990135622
+      bomba grande_5: 1635504215
+      bomba grande_50: 1207957402
+      bomba grande_51: 911059884
+      bomba grande_52: -1041117852
+      bomba grande_53: -1532988438
+      bomba grande_54: -337046396
+      bomba grande_55: 214415283
+      bomba grande_56: 310434557
+      bomba grande_57: 104938904
+      bomba grande_58: -785779696
+      bomba grande_59: 458595669
+      bomba grande_6: 200647006
+      bomba grande_60: 2051869938
+      bomba grande_61: 1594708043
+      bomba grande_62: 257310696
+      bomba grande_63: 1234407366
+      bomba grande_64: -185070635
+      bomba grande_65: 1874885033
+      bomba grande_66: -886136930
+      bomba grande_67: 1770572253
+      bomba grande_68: 1833284482
+      bomba grande_69: -780852550
+      bomba grande_7: -686298280
+      bomba grande_70: 680138952
+      bomba grande_71: -2017266274
+      bomba grande_72: 814784687
+      bomba grande_73: -1132872052
+      bomba grande_74: -2144357743
+      bomba grande_75: -1812223886
+      bomba grande_76: 149240999
+      bomba grande_77: 1555834666
+      bomba grande_78: -1728918604
+      bomba grande_79: -271697869
+      bomba grande_8: -1167436182
+      bomba grande_80: -1408416910
+      bomba grande_81: 956612232
+      bomba grande_82: 1606612228
+      bomba grande_83: -1033039831
+      bomba grande_84: -193590806
+      bomba grande_85: 1941198037
+      bomba grande_86: -1183245025
+      bomba grande_87: -1567441031
+      bomba grande_88: 1246592423
+      bomba grande_89: -628329388
+      bomba grande_9: 1734207345
+      bomba grande_90: -1763101479
+      bomba grande_91: 836531968
+      bomba grande_92: 1564586440
+      bomba grande_93: 205264707
+      bomba grande_94: 1888015208
+      bomba grande_95: -1018388035
+      bomba grande_96: -1672446238
+      bomba grande_97: 1336002862
+      bomba grande_98: 374979038
+      bomba grande_99: -1756710401
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

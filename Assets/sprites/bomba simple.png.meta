@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8eceab8d9ec691d41b102286163f1135
+guid: df06e592aa8538e43a9d01bb05473b12
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enemigo_0
+      name: bomba simple_0
       rect:
         serializedVersion: 2
-        x: 50
-        y: 7724
-        width: 483
-        height: 306
+        x: 247
+        y: 7149
+        width: 81
+        height: 304
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,19 +111,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa1ddd77fe633b6408e3ac4e4aa32ab6
-      internalID: 901089009
+      spriteID: 90e749c705178f347b242638d0c7b25d
+      internalID: -411707309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_1
+      name: bomba simple_1
       rect:
         serializedVersion: 2
-        x: 625
-        y: 7725
-        width: 483
+        x: 822
+        y: 7149
+        width: 84
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f544e95df10c478b12c140f1c6b90
+      internalID: 506568950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_2
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 7146
+        width: 82
         height: 309
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -132,145 +153,124 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cd8706e21ab39a4ea564f05a732c075
-      internalID: 18701434
+      spriteID: 33b213627be96c74f9f976dae5eb41b6
+      internalID: -1103299219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_2
+      name: bomba simple_3
       rect:
         serializedVersion: 2
-        x: 1204
-        y: 7727
-        width: 479
-        height: 307
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb660af5a52c5974cb5ce3abf7f2c67a
-      internalID: -980699697
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_3
-      rect:
-        serializedVersion: 2
-        x: 1779
-        y: 7727
-        width: 482
-        height: 310
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc4781e2f03d39248b5442ac8d15b28c
-      internalID: -187770612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_4
-      rect:
-        serializedVersion: 2
-        x: 2354
-        y: 7727
-        width: 483
-        height: 311
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f5c57fd3b4d55646ab176358c5d9831
-      internalID: -1861220072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_5
-      rect:
-        serializedVersion: 2
-        x: 2929
-        y: 7727
-        width: 483
-        height: 311
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 421cd5cf02156f242ada24495c29a777
-      internalID: 248574923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_6
-      rect:
-        serializedVersion: 2
-        x: 3508
-        y: 7728
-        width: 479
-        height: 314
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d27b9d8655ce3e4b9c4bcc89c111101
-      internalID: 8546464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_7
-      rect:
-        serializedVersion: 2
-        x: 4083
-        y: 7728
-        width: 479
-        height: 314
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3c0d23d15438054d97305317fbe9500
-      internalID: -112815048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_8
-      rect:
-        serializedVersion: 2
-        x: 50
+        x: 1974
         y: 7145
-        width: 479
+        width: 82
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950db8093714b064887ac5a493db581a
+      internalID: 1663188423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_4
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 7145
+        width: 85
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0e5411aec1e1a408715cdb22957802
+      internalID: -1777250310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_5
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 7145
+        width: 82
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ea8200c91943429de99c5e5e49307
+      internalID: 1618151870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_6
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 7145
+        width: 85
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7df8acddd6064428ca4f775e9cf44e
+      internalID: 32309439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_7
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 7142
+        width: 85
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9f57f42a37d534c93234505fb91380
+      internalID: 695114534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6560
+        width: 84
         height: 314
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -279,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db33e06cbe09fb14e9abed8651d674e7
-      internalID: -1342189359
+      spriteID: 8552a5f0d67a2934aa220e2161ac98d5
+      internalID: 2145334633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_9
+      name: bomba simple_9
       rect:
         serializedVersion: 2
-        x: 627
-        y: 7146
-        width: 480
-        height: 313
+        x: 821
+        y: 6557
+        width: 85
+        height: 318
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,145 +300,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42088f12ed376ea449e4dbcf7f96408f
-      internalID: -1330846999
+      spriteID: 94e3ce28d594a6b4baad95b848db142b
+      internalID: -140295037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_10
+      name: bomba simple_10
       rect:
         serializedVersion: 2
-        x: 1204
-        y: 7146
-        width: 478
-        height: 317
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 09a5547a3824e1d478ee85d6d8ffeeb5
-      internalID: 1288437629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_11
-      rect:
-        serializedVersion: 2
-        x: 1779
-        y: 7148
-        width: 479
-        height: 315
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22d8b65fa520cd346a736c827aea7f94
-      internalID: 1673418409
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_12
-      rect:
-        serializedVersion: 2
-        x: 2356
-        y: 7148
-        width: 477
-        height: 315
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 426ee448817880642af5ee66734b4c3e
-      internalID: 279571153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_13
-      rect:
-        serializedVersion: 2
-        x: 2933
-        y: 7148
-        width: 475
-        height: 319
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de04a78ea5fbfe94982e14385b1d4729
-      internalID: -1659386349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_14
-      rect:
-        serializedVersion: 2
-        x: 3508
-        y: 7148
-        width: 475
-        height: 319
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1fbead61f928da4080e6a667c84c4e2
-      internalID: -603550951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_15
-      rect:
-        serializedVersion: 2
-        x: 4087
-        y: 7149
-        width: 471
-        height: 322
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f39ae393f94780f4f9886395274d67ca
-      internalID: -481358155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_16
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 6567
-        width: 471
+        x: 1396
+        y: 6556
+        width: 85
         height: 321
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -447,40 +321,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f37f671f273b5b44b89d2cea31d9204
-      internalID: 507319558
+      spriteID: bacb4cb8bf2875b4e9102ddf2a898d7f
+      internalID: -315601616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_17
+      name: bomba simple_11
       rect:
         serializedVersion: 2
-        x: 630
-        y: 6569
-        width: 470
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0869fd0c291526740862169a69e2cad0
-      internalID: 1466312948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_18
-      rect:
-        serializedVersion: 2
-        x: 1208
-        y: 6570
-        width: 467
+        x: 1974
+        y: 6556
+        width: 85
         height: 322
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -489,61 +342,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e206b658293dfc45aa0279b7e43e949
-      internalID: 1293876850
+      spriteID: 91181b112d1500548bb02a8505f1737e
+      internalID: -1466555353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_19
+      name: bomba simple_12
       rect:
         serializedVersion: 2
-        x: 1783
-        y: 6570
-        width: 467
-        height: 323
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d5d98ff2d923c24d967ab5989a64c6c
-      internalID: 1553702558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_20
-      rect:
-        serializedVersion: 2
-        x: 2362
-        y: 6573
-        width: 463
-        height: 323
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f24a8f1dcf7b84541b16eef9ed2ba534
-      internalID: -1542515740
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_21
-      rect:
-        serializedVersion: 2
-        x: 2937
-        y: 6574
-        width: 463
+        x: 2549
+        y: 6556
+        width: 85
         height: 322
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -552,20 +363,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a6ea2eb2bc15a542829a1cfb8799ae0
-      internalID: -1800444882
+      spriteID: c2e42bdd4cbd1dd48a41511f60fb2f74
+      internalID: -154775434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_22
+      name: bomba simple_13
       rect:
         serializedVersion: 2
-        x: 3516
-        y: 6574
-        width: 459
-        height: 326
+        x: 3123
+        y: 6556
+        width: 89
+        height: 322
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,20 +384,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa55e370f7e29e348bb60af1869ed7ec
-      internalID: -153821723
+      spriteID: 42184f9c0ed2aaf4cb18cbc1d4200422
+      internalID: 866614133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_23
+      name: bomba simple_14
       rect:
         serializedVersion: 2
-        x: 4091
-        y: 6577
-        width: 458
-        height: 323
+        x: 3702
+        y: 6553
+        width: 85
+        height: 325
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,20 +405,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93a3790ee6d3a2646bd118592c71f421
-      internalID: 1188314151
+      spriteID: b4394ab3ea93fe748a3130ec690d7248
+      internalID: 814263447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_24
+      name: bomba simple_15
       rect:
         serializedVersion: 2
-        x: 62
-        y: 5994
-        width: 454
-        height: 327
+        x: 4276
+        y: 6552
+        width: 89
+        height: 329
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,20 +426,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42f06c9b36eba8642853ad2f5adcb402
-      internalID: 1830530704
+      spriteID: 29132e15048013b4fb6c16cbb4639a21
+      internalID: -1482464462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_25
+      name: bomba simple_16
       rect:
         serializedVersion: 2
-        x: 638
-        y: 5995
-        width: 452
-        height: 326
+        x: 243
+        y: 5967
+        width: 89
+        height: 329
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,19 +447,292 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93eb850816243ad4c8e27721768c7d54
-      internalID: -853253825
+      spriteID: a15f402fe137e3243a581c8b1489a521
+      internalID: -1962641742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_26
+      name: bomba simple_17
       rect:
         serializedVersion: 2
-        x: 1214
-        y: 5994
-        width: 449
+        x: 821
+        y: 5967
+        width: 85
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884f327d51f6a984ca2e9bc32b72408f
+      internalID: -199509693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_18
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 5967
+        width: 89
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de06ee6d2759e84899c58c426c1f9c9
+      internalID: 1737394543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_19
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 5966
+        width: 89
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179a71763a995cb4696ba05c37d1d795
+      internalID: 1201834531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_20
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 5966
+        width: 88
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76cfb979de1955469d86ea99d32cdad
+      internalID: -677032392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_21
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 5963
+        width: 89
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df99f90b18a723942a7a17a338da2735
+      internalID: 1138400273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_22
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 5963
+        width: 92
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cfcf6c1fce7664e88de4581b1b6295
+      internalID: 177578479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_23
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 5963
+        width: 89
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f90ace5067ab724cad1de1ae638edbd
+      internalID: 524180693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5381
+        width: 89
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010d0e9b0234ec4459d7d4becf39931b
+      internalID: 678663709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_25
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 5381
+        width: 92
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34605a82f094d884696983aed18102f6
+      internalID: 1520397019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_26
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 5381
+        width: 89
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65069e6d4d04bed408ba80fcba93931b
+      internalID: -1395880911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_27
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 5381
+        width: 89
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ea6a89c85fef6449d1e6fe9a0b7742
+      internalID: 2034560112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_28
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 5384
+        width: 87
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f00f95bbdc4e54f9f8f40f940c66bf
+      internalID: -2093096429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_29
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 5384
+        width: 89
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a3d4bee496223449414643ff13b5f0
+      internalID: 1888326276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_30
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 5385
+        width: 85
         height: 328
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -657,61 +741,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfdf8c04e8ede874fb49406d1d991b24
-      internalID: -1373599760
+      spriteID: 269ccce2adb20ed40b3c0dd69c671561
+      internalID: -1112634087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_27
+      name: bomba simple_31
       rect:
         serializedVersion: 2
-        x: 1789
-        y: 5991
-        width: 453
-        height: 327
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5130f4bc884a35041bf449d9b2d16ee2
-      internalID: 787624143
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_28
-      rect:
-        serializedVersion: 2
-        x: 2364
-        y: 5991
-        width: 455
-        height: 327
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a15d55dbefc2f74c91be51543f1d781
-      internalID: 773706041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_29
-      rect:
-        serializedVersion: 2
-        x: 2941
-        y: 5991
-        width: 455
+        x: 4276
+        y: 5385
+        width: 87
         height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -720,19 +762,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bfae33c2b0514a4b827dae6a0935b29
-      internalID: 858718619
+      spriteID: d1e7ea7b4e50cae47a0f7b1f3616cbdb
+      internalID: 1929637285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_30
+      name: bomba simple_32
       rect:
         serializedVersion: 2
-        x: 3516
-        y: 5988
-        width: 459
+        x: 243
+        y: 4802
+        width: 89
         height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -741,187 +783,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af6abbddc21ed9042a7fc092b5c6e632
-      internalID: 976086031
+      spriteID: c0a4fbd28c1ddc54197c3965c471afbb
+      internalID: -1647384291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_31
+      name: bomba simple_33
       rect:
         serializedVersion: 2
-        x: 4091
-        y: 5987
-        width: 459
-        height: 327
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e59305ab3e626b49895028e6ea9f947
-      internalID: -1994720857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_32
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 5404
-        width: 463
-        height: 323
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75a80c80b3feff6409a7890d23563afc
-      internalID: -184992206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_33
-      rect:
-        serializedVersion: 2
-        x: 633
-        y: 5400
-        width: 463
-        height: 327
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9348052cc1e2a77449bdf3bd3c877bde
-      internalID: -85567170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_34
-      rect:
-        serializedVersion: 2
-        x: 1208
-        y: 5400
-        width: 467
-        height: 323
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec2476c9db66c524097cf88f17771b3f
-      internalID: 1875673634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_35
-      rect:
-        serializedVersion: 2
-        x: 1783
-        y: 5400
-        width: 467
-        height: 323
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9128bfa02c18c1c42bd8325bb7873771
-      internalID: 1973963950
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_36
-      rect:
-        serializedVersion: 2
-        x: 2358
-        y: 5396
-        width: 470
-        height: 323
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 313c41dc67d97eb4280e0e00e2db5f56
-      internalID: 1536407661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_37
-      rect:
-        serializedVersion: 2
-        x: 2933
-        y: 5396
-        width: 471
-        height: 323
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6922da463987133438bdb7fe3db4c088
-      internalID: 273886065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_38
-      rect:
-        serializedVersion: 2
-        x: 3508
-        y: 5396
-        width: 473
-        height: 319
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6191ed870bbfc524b9c7dc5973f55d1c
-      internalID: -1955567778
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_39
-      rect:
-        serializedVersion: 2
-        x: 4085
-        y: 5393
-        width: 473
+        x: 821
+        y: 4803
+        width: 85
         height: 322
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -930,125 +804,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef1156ae31bab80468433f4c4d9ace47
-      internalID: 174055775
+      spriteID: 6652a4b770a85314dbd22b6864b850ca
+      internalID: 1077754958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_40
+      name: bomba simple_34
       rect:
         serializedVersion: 2
-        x: 54
-        y: 4809
-        width: 471
-        height: 319
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4dedb8be36513942a591001a0e9a269
-      internalID: -533830648
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_41
-      rect:
-        serializedVersion: 2
-        x: 629
-        y: 4809
-        width: 475
-        height: 319
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa67145ac12bd2b44808d88675dec2f9
-      internalID: 1365810413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_42
-      rect:
-        serializedVersion: 2
-        x: 1204
-        y: 4806
-        width: 475
-        height: 318
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54a1d81a09afb6c459e86da4fdfe966b
-      internalID: -2095444105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_43
-      rect:
-        serializedVersion: 2
-        x: 1779
-        y: 4805
-        width: 479
-        height: 318
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 799591d33614c4642baef019c499c305
-      internalID: 733811230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_44
-      rect:
-        serializedVersion: 2
-        x: 2354
-        y: 4805
-        width: 479
-        height: 315
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b7b63685b5a6bc498455e4c0f6dca9b
-      internalID: 1316986205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_45
-      rect:
-        serializedVersion: 2
-        x: 2933
+        x: 1396
         y: 4803
-        width: 478
-        height: 313
+        width: 85
+        height: 322
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,19 +825,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdc0a8324dfb96249b8e6725cf4a2178
-      internalID: -2072850682
+      spriteID: 87342b0b3494e084ca953bab59429558
+      internalID: 12031234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_46
+      name: bomba simple_35
       rect:
         serializedVersion: 2
-        x: 3508
-        y: 4801
-        width: 479
+        x: 1974
+        y: 4806
+        width: 85
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7246f7cdf9a632439b50a12bf3221eb
+      internalID: 1947748523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_36
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 4806
+        width: 85
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e522617f0dd4004dafaa49334007338
+      internalID: -1699538315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_37
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 4806
+        width: 82
         height: 315
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1077,19 +888,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 093485cd21f9ab043ac3cd21bc76ec80
-      internalID: -1400501522
+      spriteID: 1db6378799fe22943acdcc40167b59ed
+      internalID: -1036697398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_47
+      name: bomba simple_38
       rect:
         serializedVersion: 2
-        x: 4083
-        y: 4801
-        width: 479
+        x: 3702
+        y: 4806
+        width: 85
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6dec57390472541a71ec1c01bd2280
+      internalID: 1767891417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_39
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 4810
+        width: 84
         height: 311
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1098,40 +930,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56e89e2056810ca4c82781c5a0159461
-      internalID: 1960914962
+      spriteID: 18e9a09deddf87941aa0da17673760ab
+      internalID: 1353670632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_48
+      name: bomba simple_40
       rect:
         serializedVersion: 2
-        x: 50
-        y: 4215
-        width: 483
-        height: 310
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87ea07b52fead9842a17698c1c24d682
-      internalID: -1125248383
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_49
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 4214
-        width: 483
+        x: 247
+        y: 4224
+        width: 81
         height: 311
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1140,19 +951,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e7365d4e728c7d4fb13609b808f1169
-      internalID: -1992463014
+      spriteID: 26744d0bc7bd4d74a8e4834cd0f85cc1
+      internalID: -75119495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_50
+      name: bomba simple_41
       rect:
         serializedVersion: 2
-        x: 1204
-        y: 4214
-        width: 479
+        x: 821
+        y: 4228
+        width: 85
         height: 307
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1161,40 +972,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41338d31b3a5889469d54fe09c6e9ecb
-      internalID: -1469751384
+      spriteID: 64ce17eb3dec4a74cbf09eaa2c0b1b82
+      internalID: -938591357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_51
+      name: bomba simple_42
       rect:
         serializedVersion: 2
-        x: 1779
-        y: 4212
-        width: 482
-        height: 308
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 801caad57e8168d43a47580f5dff7896
-      internalID: -992860875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_52
-      rect:
-        serializedVersion: 2
-        x: 2354
-        y: 4210
-        width: 483
+        x: 1399
+        y: 4228
+        width: 82
         height: 307
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1203,1090 +993,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f582c9126ced8cc45bdfac76c0c106e6
-      internalID: 2103743320
+      spriteID: e153eae757ace254abfebeb81cfe9afa
+      internalID: -587319096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_53
+      name: bomba simple_43
       rect:
         serializedVersion: 2
-        x: 2929
-        y: 4210
-        width: 483
-        height: 303
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 76727d895e352a04f93e7396224fad87
-      internalID: -1376313561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_54
-      rect:
-        serializedVersion: 2
-        x: 3508
-        y: 4210
-        width: 479
-        height: 303
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af622d2c2b01c1b4a93e78c181a06311
-      internalID: 349581002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_55
-      rect:
-        serializedVersion: 2
-        x: 4083
-        y: 4210
-        width: 483
-        height: 303
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1b9a0a75fbecbf46a9953dd887ec586
-      internalID: 372018748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_56
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 3627
-        width: 483
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aff72b68d378ff044ba3fb72bdbbc4b8
-      internalID: -1477811376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_57
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 3627
-        width: 483
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13b0bb881be56544db4db61d0fdf13bb
-      internalID: -1744530787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_58
-      rect:
-        serializedVersion: 2
-        x: 1201
-        y: 3627
-        width: 486
-        height: 298
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34985f74068caac43bb8c2e445b6124f
-      internalID: -1744288100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_59
-      rect:
-        serializedVersion: 2
-        x: 1779
-        y: 3627
-        width: 483
-        height: 295
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8df486d63617c3f469cb4089e73c7d20
-      internalID: -779865909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_60
-      rect:
-        serializedVersion: 2
-        x: 2354
-        y: 3628
-        width: 483
-        height: 294
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d00fd924cdf36ec478b05373dd2c5992
-      internalID: -966037213
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_61
-      rect:
-        serializedVersion: 2
-        x: 2929
-        y: 3629
-        width: 483
-        height: 293
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d8ce8c71e6961a4c94f0375cadffe45
-      internalID: -1103738160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_62
-      rect:
-        serializedVersion: 2
-        x: 3504
-        y: 3629
-        width: 487
-        height: 289
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 946bbad2b7290e14a800db7fd0df86ab
-      internalID: 683204673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_63
-      rect:
-        serializedVersion: 2
-        x: 4083
-        y: 3631
-        width: 483
-        height: 287
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6b8a854999bfa54eba65f471aa2bfe4
-      internalID: -808053321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_64
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 3046
-        width: 483
-        height: 289
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2af780028a52fe84b9b58fe2e7b77bd8
-      internalID: 1346514115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_65
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 3048
-        width: 485
-        height: 283
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6337da42600f8441ade9fa11434061f
-      internalID: -1876188948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_66
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 3048
-        width: 487
-        height: 283
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e020a033f344587498bb3bba785a3ad4
-      internalID: 1659845451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_67
-      rect:
-        serializedVersion: 2
-        x: 1779
-        y: 3048
-        width: 483
-        height: 283
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d88a7b79d564a75488e73e2ee70650a1
-      internalID: -1540964990
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_68
-      rect:
-        serializedVersion: 2
-        x: 2354
-        y: 3048
-        width: 483
-        height: 279
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52a65660890aca645b6abcd3bb604511
-      internalID: 1862065387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_69
-      rect:
-        serializedVersion: 2
-        x: 2929
-        y: 3049
-        width: 486
-        height: 278
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 360a79d053fc2be4b8a7bd805faa3bd5
-      internalID: 1697364728
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_70
-      rect:
-        serializedVersion: 2
-        x: 3504
-        y: 3048
-        width: 487
-        height: 279
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e206f5deebb558e42b60f145ccc1080b
-      internalID: 384463614
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_71
-      rect:
-        serializedVersion: 2
-        x: 4081
-        y: 3049
-        width: 485
-        height: 278
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: afedbdf181627304d88867486cfeddfd
-      internalID: -1159140059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_72
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 2466
-        width: 483
-        height: 275
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46c95137d77082349868fb5e288be0d6
-      internalID: 373119534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_73
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 2466
-        width: 486
-        height: 274
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a404952f37a68c8498764344f6d9ccba
-      internalID: -1127080437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_74
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 2469
-        width: 487
-        height: 268
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 11d2701fe23d167449484ce1d251a755
-      internalID: 1096059210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_75
-      rect:
-        serializedVersion: 2
-        x: 1779
-        y: 2469
-        width: 483
-        height: 268
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d00353969ff1db6468bdea91be22839f
-      internalID: -1704823051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_76
-      rect:
-        serializedVersion: 2
-        x: 2354
-        y: 2470
-        width: 483
-        height: 266
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee70715c197d299429cece3c918c9545
-      internalID: 1940237228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_77
-      rect:
-        serializedVersion: 2
-        x: 2929
-        y: 2471
-        width: 485
-        height: 262
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4aa575d0517595848a112800fff92945
-      internalID: 961228126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_78
-      rect:
-        serializedVersion: 2
-        x: 3504
-        y: 2473
-        width: 487
-        height: 260
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49d2446bafe1b2c4b9197fbd93ae6498
-      internalID: 1019062368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_79
-      rect:
-        serializedVersion: 2
-        x: 4083
-        y: 2473
-        width: 483
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c3ebdebd3da28a4c84a6bfe865c7593
-      internalID: -667816391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_80
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 1891
-        width: 483
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79e8f986425b9f84dab92e6934b4b450
-      internalID: -1594473643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_81
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 1892
-        width: 483
-        height: 253
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94b7765695bb87747a82b057de993da4
-      internalID: 478625906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_82
-      rect:
-        serializedVersion: 2
-        x: 1204
-        y: 1894
-        width: 483
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20ec1e2f72009d54e931c04f42b96302
-      internalID: -1762442753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_83
-      rect:
-        serializedVersion: 2
-        x: 1779
-        y: 1895
-        width: 483
-        height: 247
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79c0a5d1600eb1a49baf7a50712248d7
-      internalID: 1700266151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_84
-      rect:
-        serializedVersion: 2
-        x: 2354
-        y: 1895
-        width: 483
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d5798ee2b426e84fbe04b50fb626b29
-      internalID: 848200318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_85
-      rect:
-        serializedVersion: 2
-        x: 2930
-        y: 1898
-        width: 482
-        height: 240
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1e17461e39c8aa49af8ea60f993e99c
-      internalID: -1993741618
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_86
-      rect:
-        serializedVersion: 2
-        x: 3508
-        y: 1895
-        width: 479
-        height: 239
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56bddf82538c8f948ad6e2e95c01ebaf
-      internalID: 1508274681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_87
-      rect:
-        serializedVersion: 2
-        x: 4083
-        y: 1894
-        width: 483
-        height: 244
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 541911b8d0502974da553ec8b62c1c77
-      internalID: 219571094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_88
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 1308
-        width: 483
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a2532e46ea7c17643b3e89efd5ed734c
-      internalID: 1752316478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_89
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 1308
-        width: 483
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0c6fcd2fa1e6634f9b318ff46dc855b
-      internalID: -926954868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_90
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 1304
-        width: 487
-        height: 263
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31e1c2779b28709459b1bf3c9ccda548
-      internalID: -744671282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_91
-      rect:
-        serializedVersion: 2
-        x: 1779
-        y: 1304
-        width: 483
-        height: 267
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71c07f131a814f34a8f81c35d963521d
-      internalID: 892763125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_92
-      rect:
-        serializedVersion: 2
-        x: 2354
-        y: 1300
-        width: 483
-        height: 275
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f289db3cdad7a2c4d829391dc14c70cf
-      internalID: -1813323357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_93
-      rect:
-        serializedVersion: 2
-        x: 2929
-        y: 1300
-        width: 486
-        height: 279
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f64123f5a0d057c4c9bc19b2f591a994
-      internalID: -2042749526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_94
-      rect:
-        serializedVersion: 2
-        x: 3504
-        y: 1300
-        width: 487
-        height: 279
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a8cf8b480579f044a07b40ce1ecf378
-      internalID: -1544716471
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_95
-      rect:
-        serializedVersion: 2
-        x: 4081
-        y: 1296
-        width: 485
-        height: 287
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 338cad49c69a740499540d7b42331951
-      internalID: -808438582
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_96
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 711
-        width: 483
-        height: 293
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a38b914a0736f0745ab30765013180f2
-      internalID: 1705712291
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_97
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 709
-        width: 483
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4fb02aed78608da4db0a9e19f53b1b87
-      internalID: -1837108179
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_98
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 709
-        width: 487
-        height: 303
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c7021ae20b0754946bcc724f48702ebb
-      internalID: -665024330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_99
-      rect:
-        serializedVersion: 2
-        x: 1779
-        y: 709
-        width: 483
-        height: 303
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6389b71ab7758af4fb55b94baa54217a
-      internalID: 34475404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_100
-      rect:
-        serializedVersion: 2
-        x: 2354
-        y: 709
-        width: 483
-        height: 303
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49efcdabfc851bd42b47e1def5076e61
-      internalID: -1338447098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_101
-      rect:
-        serializedVersion: 2
-        x: 2929
-        y: 709
-        width: 483
-        height: 303
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf8536e699e888b42afedbcc60d148ed
-      internalID: -645981606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_102
-      rect:
-        serializedVersion: 2
-        x: 3505
-        y: 709
-        width: 486
-        height: 303
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ebb73df8b4de6a45b6e81b8ee94918c
-      internalID: -778022463
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_103
-      rect:
-        serializedVersion: 2
-        x: 4083
-        y: 709
-        width: 483
-        height: 303
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e836e84c932589b4c863d7181d884084
-      internalID: 531526610
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: enemigo_104
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 123
-        width: 483
+        x: 1974
+        y: 4228
+        width: 82
         height: 306
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2295,20 +1014,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60b7d536c88a8bf409e9484f83b30d9a
-      internalID: 1720444922
+      spriteID: 18eab4edfa2381d4b8eb770b9afe10f6
+      internalID: 1070590164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enemigo_105
+      name: bomba simple_44
       rect:
         serializedVersion: 2
-        x: 625
-        y: 124
-        width: 483
-        height: 305
+        x: 2552
+        y: 4228
+        width: 82
+        height: 304
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2316,8 +1035,1247 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 941e866ec9260a34d81f402185fb35ce
-      internalID: -663990816
+      spriteID: fdbc731835c9ae8439de5e841342d212
+      internalID: -1348019130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_45
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 4228
+        width: 81
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b0976e9cbca57478ca65cb115d6824
+      internalID: -1648706185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_46
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 4232
+        width: 80
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1d8229a90925d4b8e382d119e2e66d
+      internalID: 797314123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_47
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 4232
+        width: 81
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fa4efe5533f5e45a7d8589e5b74697
+      internalID: -1879186647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_48
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3650
+        width: 81
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e438f80cf45647ba31dc022c97da6
+      internalID: 1098320211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_49
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 3650
+        width: 78
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eebe1957fe8124086678d49f0788a1
+      internalID: 1548147798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_50
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3650
+        width: 81
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da211548596f94243ada224e12fb4f85
+      internalID: 1494010594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_51
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 3646
+        width: 82
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d3de7564023204683895fd8bf76c35
+      internalID: -1216718948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_52
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 3646
+        width: 81
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c15bfa8fe988434caf579235e5ec330
+      internalID: -1735842415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_53
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 3646
+        width: 82
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a26e43bd20d8b45aa5d910419ceef6
+      internalID: -1544185553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_54
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3646
+        width: 81
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a480188383398304f9767a66362d467f
+      internalID: -1101608278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_55
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 3642
+        width: 81
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b12175df1e33643beaf5d9c9f3dfc3
+      internalID: -389220619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3057
+        width: 81
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2571dc113834741a71ab63d67135ff
+      internalID: -2122735438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_57
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 3057
+        width: 85
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd62de10d9191e4bbe6c431ce40034d
+      internalID: -406097792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_58
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 3056
+        width: 82
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12170a64757c8e4c962475483882419
+      internalID: -1464258074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_59
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 3056
+        width: 85
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687cbf044e73abb45aaf1771b837a312
+      internalID: -1100471600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_60
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 3054
+        width: 85
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a027b2178539737468fde94c2ab72919
+      internalID: 1550307110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_61
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 3053
+        width: 82
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9df1581e0f376549aec33d487e38078
+      internalID: 300695516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_62
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3053
+        width: 85
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2683d2a7250c0cc438b31defc8e162e6
+      internalID: -1910660221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_63
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 3053
+        width: 85
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e421665c95d7428be9cfad329fefd
+      internalID: 1573857852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_64
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2467
+        width: 89
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd84610749126c4b8d95a7aa7f28ace
+      internalID: 651535939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_65
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2467
+        width: 85
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da49de732b31d4482f7ba4cf3e599a
+      internalID: 1048007271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_66
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2464
+        width: 89
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecfa9de36e30ec45addf7ae0dacc490
+      internalID: 1998455052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_67
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2463
+        width: 88
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95101c654560d6d42bf925316f3f5c64
+      internalID: 167557653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_68
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 2463
+        width: 87
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d0cb59f255e34eb43d38af9fcea6e
+      internalID: 935005647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_69
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2463
+        width: 89
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3882f185dcc36ee418a9d7fc8768d862
+      internalID: -1110883585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_70
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 2460
+        width: 89
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5f342a0d69fbf43b13d9f0382bbff2
+      internalID: -1328253915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_71
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 2460
+        width: 89
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09658f73b10b13d45aa8e211573009ac
+      internalID: 833328791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_72
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1874
+        width: 89
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b59de1c9e82b5439ab4ecb94adc014
+      internalID: 1068231285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_73
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1874
+        width: 92
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d8387fbfa33a2408fc151952795233
+      internalID: 456822332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_74
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1874
+        width: 89
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d785751c6ff0c4695823b450a9b207
+      internalID: 46358652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_75
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1874
+        width: 89
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8853958794f9774c8052ff09d0a8b0f
+      internalID: 294275232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_76
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1875
+        width: 92
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2036dd2998c581498de081cb2dc3253
+      internalID: 439850537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_77
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1878
+        width: 89
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b1278a31d48f4488c73ae6d1c3966f
+      internalID: -563634020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_78
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 1878
+        width: 89
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e8cfc554224d14fa49c6796207deed
+      internalID: 451850601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_79
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 1878
+        width: 89
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49405645586dd404ba44a2c36032d8c8
+      internalID: 1149655528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_80
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1296
+        width: 89
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de98a6f91392f54f83607fa0688cb0a
+      internalID: -2112164123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_81
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1297
+        width: 85
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6722a03fd4337c142a27c9992f67326f
+      internalID: -877396285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_82
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1299
+        width: 87
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e7c66fdc5b6b4aa81b4b313726846
+      internalID: -760973137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_83
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1299
+        width: 85
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b54319b946778459b7462593bdca24
+      internalID: 316631260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_84
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 1300
+        width: 85
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bebdec8ff7f1840825927eefcef3c3
+      internalID: 1410945810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_85
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 1303
+        width: 82
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de4594943268d34bb8b91a69b234fdb
+      internalID: 608615734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_86
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 1303
+        width: 85
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a39ffc79fd5df846b0582398cf8a45a
+      internalID: 1084531722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_87
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 1303
+        width: 83
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76886f408162c84a859da93174582dc
+      internalID: 724115220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_88
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 721
+        width: 81
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c71a1b428cc89469e15c8e5fb735ea
+      internalID: -2069996076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_89
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 721
+        width: 85
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf90a46c079af9488e1d06ce3c53dd8
+      internalID: 441046919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_90
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 725
+        width: 82
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ee7ec4241c1954198781b664d700b1
+      internalID: 1668345600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_91
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 725
+        width: 82
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f9739318b95bd4fa7ad59786a8b06e
+      internalID: -492532461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_92
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 725
+        width: 81
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668aa203a43def54db79cb1a4d418f8e
+      internalID: 431747521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_93
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 728
+        width: 81
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99cf0ce9aadf7b4d9258a2b7ae16bfb
+      internalID: 1084623947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_94
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 728
+        width: 78
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c73e29c199b664b9bf0c59d0ce13b4
+      internalID: 134280168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_95
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 729
+        width: 78
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912ed147858068d49b906add097c5822
+      internalID: -320850864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_96
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 146
+        width: 78
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9035c4ae8a5bf51449e1f5ad44851318
+      internalID: 1577851661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_97
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 147
+        width: 78
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a2421593ef8274faa80f5e605b9d9c
+      internalID: 1069223675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_98
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 147
+        width: 77
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73e27266bd7ffd4bb9d1a644454a7df
+      internalID: 1653249334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_99
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 147
+        width: 78
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc8bc49480a96e44924a4a57d5a6aa9
+      internalID: -1248504932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_100
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 147
+        width: 78
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541ba47f5e93e924c927af4c9dea224d
+      internalID: 675874481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_101
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 147
+        width: 79
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f9d94593f27194a89ae6cd3bbb13e8
+      internalID: -102184178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_102
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 147
+        width: 78
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37b81f19a3014945b0e007db6a27dc4
+      internalID: 1460266441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_103
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 147
+        width: 78
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e3557bb60d0504e832d3a8f9b167f0
+      internalID: 623595992
       vertices: []
       indices: 
       edges: []
@@ -2333,112 +2291,110 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      enemigo_0: 901089009
-      enemigo_1: 18701434
-      enemigo_10: 1288437629
-      enemigo_100: -1338447098
-      enemigo_101: -645981606
-      enemigo_102: -778022463
-      enemigo_103: 531526610
-      enemigo_104: 1720444922
-      enemigo_105: -663990816
-      enemigo_11: 1673418409
-      enemigo_12: 279571153
-      enemigo_13: -1659386349
-      enemigo_14: -603550951
-      enemigo_15: -481358155
-      enemigo_16: 507319558
-      enemigo_17: 1466312948
-      enemigo_18: 1293876850
-      enemigo_19: 1553702558
-      enemigo_2: -980699697
-      enemigo_20: -1542515740
-      enemigo_21: -1800444882
-      enemigo_22: -153821723
-      enemigo_23: 1188314151
-      enemigo_24: 1830530704
-      enemigo_25: -853253825
-      enemigo_26: -1373599760
-      enemigo_27: 787624143
-      enemigo_28: 773706041
-      enemigo_29: 858718619
-      enemigo_3: -187770612
-      enemigo_30: 976086031
-      enemigo_31: -1994720857
-      enemigo_32: -184992206
-      enemigo_33: -85567170
-      enemigo_34: 1875673634
-      enemigo_35: 1973963950
-      enemigo_36: 1536407661
-      enemigo_37: 273886065
-      enemigo_38: -1955567778
-      enemigo_39: 174055775
-      enemigo_4: -1861220072
-      enemigo_40: -533830648
-      enemigo_41: 1365810413
-      enemigo_42: -2095444105
-      enemigo_43: 733811230
-      enemigo_44: 1316986205
-      enemigo_45: -2072850682
-      enemigo_46: -1400501522
-      enemigo_47: 1960914962
-      enemigo_48: -1125248383
-      enemigo_49: -1992463014
-      enemigo_5: 248574923
-      enemigo_50: -1469751384
-      enemigo_51: -992860875
-      enemigo_52: 2103743320
-      enemigo_53: -1376313561
-      enemigo_54: 349581002
-      enemigo_55: 372018748
-      enemigo_56: -1477811376
-      enemigo_57: -1744530787
-      enemigo_58: -1744288100
-      enemigo_59: -779865909
-      enemigo_6: 8546464
-      enemigo_60: -966037213
-      enemigo_61: -1103738160
-      enemigo_62: 683204673
-      enemigo_63: -808053321
-      enemigo_64: 1346514115
-      enemigo_65: -1876188948
-      enemigo_66: 1659845451
-      enemigo_67: -1540964990
-      enemigo_68: 1862065387
-      enemigo_69: 1697364728
-      enemigo_7: -112815048
-      enemigo_70: 384463614
-      enemigo_71: -1159140059
-      enemigo_72: 373119534
-      enemigo_73: -1127080437
-      enemigo_74: 1096059210
-      enemigo_75: -1704823051
-      enemigo_76: 1940237228
-      enemigo_77: 961228126
-      enemigo_78: 1019062368
-      enemigo_79: -667816391
-      enemigo_8: -1342189359
-      enemigo_80: -1594473643
-      enemigo_81: 478625906
-      enemigo_82: -1762442753
-      enemigo_83: 1700266151
-      enemigo_84: 848200318
-      enemigo_85: -1993741618
-      enemigo_86: 1508274681
-      enemigo_87: 219571094
-      enemigo_88: 1752316478
-      enemigo_89: -926954868
-      enemigo_9: -1330846999
-      enemigo_90: -744671282
-      enemigo_91: 892763125
-      enemigo_92: -1813323357
-      enemigo_93: -2042749526
-      enemigo_94: -1544716471
-      enemigo_95: -808438582
-      enemigo_96: 1705712291
-      enemigo_97: -1837108179
-      enemigo_98: -665024330
-      enemigo_99: 34475404
+      bomba simple_0: -411707309
+      bomba simple_1: 506568950
+      bomba simple_10: -315601616
+      bomba simple_100: 675874481
+      bomba simple_101: -102184178
+      bomba simple_102: 1460266441
+      bomba simple_103: 623595992
+      bomba simple_11: -1466555353
+      bomba simple_12: -154775434
+      bomba simple_13: 866614133
+      bomba simple_14: 814263447
+      bomba simple_15: -1482464462
+      bomba simple_16: -1962641742
+      bomba simple_17: -199509693
+      bomba simple_18: 1737394543
+      bomba simple_19: 1201834531
+      bomba simple_2: -1103299219
+      bomba simple_20: -677032392
+      bomba simple_21: 1138400273
+      bomba simple_22: 177578479
+      bomba simple_23: 524180693
+      bomba simple_24: 678663709
+      bomba simple_25: 1520397019
+      bomba simple_26: -1395880911
+      bomba simple_27: 2034560112
+      bomba simple_28: -2093096429
+      bomba simple_29: 1888326276
+      bomba simple_3: 1663188423
+      bomba simple_30: -1112634087
+      bomba simple_31: 1929637285
+      bomba simple_32: -1647384291
+      bomba simple_33: 1077754958
+      bomba simple_34: 12031234
+      bomba simple_35: 1947748523
+      bomba simple_36: -1699538315
+      bomba simple_37: -1036697398
+      bomba simple_38: 1767891417
+      bomba simple_39: 1353670632
+      bomba simple_4: -1777250310
+      bomba simple_40: -75119495
+      bomba simple_41: -938591357
+      bomba simple_42: -587319096
+      bomba simple_43: 1070590164
+      bomba simple_44: -1348019130
+      bomba simple_45: -1648706185
+      bomba simple_46: 797314123
+      bomba simple_47: -1879186647
+      bomba simple_48: 1098320211
+      bomba simple_49: 1548147798
+      bomba simple_5: 1618151870
+      bomba simple_50: 1494010594
+      bomba simple_51: -1216718948
+      bomba simple_52: -1735842415
+      bomba simple_53: -1544185553
+      bomba simple_54: -1101608278
+      bomba simple_55: -389220619
+      bomba simple_56: -2122735438
+      bomba simple_57: -406097792
+      bomba simple_58: -1464258074
+      bomba simple_59: -1100471600
+      bomba simple_6: 32309439
+      bomba simple_60: 1550307110
+      bomba simple_61: 300695516
+      bomba simple_62: -1910660221
+      bomba simple_63: 1573857852
+      bomba simple_64: 651535939
+      bomba simple_65: 1048007271
+      bomba simple_66: 1998455052
+      bomba simple_67: 167557653
+      bomba simple_68: 935005647
+      bomba simple_69: -1110883585
+      bomba simple_7: 695114534
+      bomba simple_70: -1328253915
+      bomba simple_71: 833328791
+      bomba simple_72: 1068231285
+      bomba simple_73: 456822332
+      bomba simple_74: 46358652
+      bomba simple_75: 294275232
+      bomba simple_76: 439850537
+      bomba simple_77: -563634020
+      bomba simple_78: 451850601
+      bomba simple_79: 1149655528
+      bomba simple_8: 2145334633
+      bomba simple_80: -2112164123
+      bomba simple_81: -877396285
+      bomba simple_82: -760973137
+      bomba simple_83: 316631260
+      bomba simple_84: 1410945810
+      bomba simple_85: 608615734
+      bomba simple_86: 1084531722
+      bomba simple_87: 724115220
+      bomba simple_88: -2069996076
+      bomba simple_89: 441046919
+      bomba simple_9: -140295037
+      bomba simple_90: 1668345600
+      bomba simple_91: -492532461
+      bomba simple_92: 431747521
+      bomba simple_93: 1084623947
+      bomba simple_94: 134280168
+      bomba simple_95: -320850864
+      bomba simple_96: 1577851661
+      bomba simple_97: 1069223675
+      bomba simple_98: 1653249334
+      bomba simple_99: -1248504932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

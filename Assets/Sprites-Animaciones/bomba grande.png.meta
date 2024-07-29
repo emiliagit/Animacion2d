@@ -1,0 +1,2798 @@
+fileFormatVersion: 2
+guid: b13755c192efbd048bb09d00c8496828
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomba grande_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8885
+        width: 151
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8812f04b0dd402e42ba5b6a2ed84ac4c
+      internalID: 617995964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_1
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 8881
+        width: 150
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d996d9d00ebec4ab78044187834259
+      internalID: 864222025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_2
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 8881
+        width: 150
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0843239e6b69a458c233f2b53b9fe7
+      internalID: 1196400406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_3
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 8881
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acd8402f94f35745a105c976bbba5ef
+      internalID: -2129758680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_4
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 8881
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95d6ef801950914a8c510d9c86c4c0c
+      internalID: -1468734087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_5
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 8881
+        width: 154
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111584c70a2676a4c83e9fc698d12815
+      internalID: 1434788312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_6
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 8877
+        width: 155
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bfc057e377c23468515395aaece140
+      internalID: -405011957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_7
+      rect:
+        serializedVersion: 2
+        x: 4242
+        y: 8877
+        width: 154
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2afce25ca1b9b144a9d503a80f97acd
+      internalID: 1266948706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8292
+        width: 154
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a947811e862d742b64a00e05b61f05
+      internalID: -58394780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 8292
+        width: 155
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdecfdeb3acc524080145a1f3c9e976
+      internalID: -573037816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_10
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 8292
+        width: 155
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9969b44306f404082911d3c4b31a2b
+      internalID: 16264922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_11
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 8292
+        width: 157
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2d082cb2938ac4b96af2509cfe3820
+      internalID: -607077526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_12
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 8288
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208e1bb7bc91f9d41839f88b1a26a77e
+      internalID: -1564563379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_13
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 8288
+        width: 157
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b6f75d27f1db47b4d40c6173db1c6
+      internalID: -833712680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_14
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 8288
+        width: 158
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f239723fe61206341ac91432355f1739
+      internalID: -1304679109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_15
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 8288
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883b25729c424d046a7e8ad7809627e7
+      internalID: -1207631993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 7704
+        width: 159
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01b2b2e5afa77a4bb0ab3ed2c7c4aee
+      internalID: 847617438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_17
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 7700
+        width: 159
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5361e53b2fee28249ad9ac1f385ea36f
+      internalID: -1756646923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_18
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 7699
+        width: 163
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e8ece9d96884b4b890db00905e7980
+      internalID: -1960461245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_19
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 7699
+        width: 159
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b0e7581a957cc4bbe6e750ffb6985e
+      internalID: 482853786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_20
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 7699
+        width: 161
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11647de46a73f094d8bf60f080603952
+      internalID: -515105534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_21
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 7699
+        width: 165
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b746450a4d0a3cc4dbd5ba99f7d4a4e4
+      internalID: -138001323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_22
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 7697
+        width: 165
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14305b78866e26c4696a5dc5acf5419d
+      internalID: -752791231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_23
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 7695
+        width: 164
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092879a794683048bfc901376f593ca
+      internalID: -1804370446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 7115
+        width: 164
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facaa903859e2214d88660707688d7d7
+      internalID: 1373952045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_25
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 7115
+        width: 165
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eb10b27c48bdd4285e52f85aaa832d
+      internalID: -1886221201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_26
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 7115
+        width: 165
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fb70f773777e94a9be606a0af0e758
+      internalID: -1841279874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_27
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 7115
+        width: 159
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfad10d2d85e8cf4aa0c917cf70f5205
+      internalID: 697960644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_28
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 7116
+        width: 159
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5248ab9b9f3b92d478b1988176c02679
+      internalID: -1873932332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_29
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 7120
+        width: 159
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b485e0463d1e047b16ab728e721c84
+      internalID: 539454611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_30
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 7120
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa0bc031e7ee84aa0483eaeeef0b01
+      internalID: -468666273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_31
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 7120
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f19587a7e87094ea7a66e93979bf0c
+      internalID: -422294499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 6536
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb88355227a4034c98a1b825f8dec56
+      internalID: 20918878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_33
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 6537
+        width: 155
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9520f608d4d7a1a4da4cdebffb654f67
+      internalID: -348970626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_34
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 6540
+        width: 155
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b94c7ec57c38246b0629e41df64a68
+      internalID: 361300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_35
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 6540
+        width: 155
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5e099ac8df1564b9c383c32822b2c1
+      internalID: 1211895609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_36
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 6540
+        width: 154
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fa8a2329c3b044f8a6de5a1f7e2864
+      internalID: -1031450677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_37
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 6541
+        width: 155
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61dcea30c31adb46834737c7351e28d
+      internalID: -1256665030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_38
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 6543
+        width: 155
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4930e5dbe0133eb489731cc8571673b4
+      internalID: -998471769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_39
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 6545
+        width: 151
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef5c5b91a2ec243a707390a67924a3
+      internalID: 522404310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5961
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0116768b4afc1634fa9bcd76b2e9a68c
+      internalID: 1887784548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_41
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 5961
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c36c4f60eaae340974179ef644f1bc
+      internalID: 1810157818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_42
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 5961
+        width: 150
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bce000ba06d7c54a9576e90154089d9
+      internalID: -1140074768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_43
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 5965
+        width: 151
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e28eb8eb735368439e69dc63ba812f0
+      internalID: 1895335322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_44
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 5961
+        width: 151
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb8b166fd6ecb74f84611e66d9dd2a6
+      internalID: 652998588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_45
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 5961
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4226e27d9bd806b43b2ba4b931ebb370
+      internalID: 1503249761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_46
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 5961
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a088a7ca60d238b45af8b4ab5954649d
+      internalID: 258863816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_47
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 5961
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db84bceac0f058b4b936fb11a210bfbb
+      internalID: -706652760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_48
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5377
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb84484721463ad429d84db6d0c85edd
+      internalID: -918825262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_49
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 5377
+        width: 155
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb7df479e3c0844891cb6012b5745c
+      internalID: -35177994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_50
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 5373
+        width: 155
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8092d924f63ad7542b0a5f35faa3b5b2
+      internalID: -648975238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_51
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 5373
+        width: 153
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eedd2c52b5deed4d860651fa29ad1f8
+      internalID: -71984346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_52
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 5372
+        width: 153
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bc24a034d90ec4991905f4127eada8
+      internalID: 2009967835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_53
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 5372
+        width: 155
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca2d21d85f4fb2459e2354dd8b2e538
+      internalID: -690509475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_54
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 5372
+        width: 155
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85434a529f1594442b956c93f56e6101
+      internalID: -1886443924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_55
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 5372
+        width: 155
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a61ff9ef51ca5742b8d757822d978dc
+      internalID: 1902113519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 4786
+        width: 159
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a51a79e82f553b4d9600280d8964396
+      internalID: 1364796293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_57
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 4784
+        width: 155
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e45914047d39374b8fd352a9f1d0fd0
+      internalID: 1406314684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_58
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 4784
+        width: 155
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0f4745c43a221498e3693d487542ad
+      internalID: 1220207928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_59
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 4784
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff40324e13ff6bd43a7abc4651623fb0
+      internalID: 1988110640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_60
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 4784
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2346b0ad97400264581f29321d532560
+      internalID: -1801424133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_61
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 4784
+        width: 159
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffdd219502f5c743a10ff7e58c31834
+      internalID: -1884525335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_62
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 4784
+        width: 161
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7194603c5b1b5694a88f80c7ce4a38ca
+      internalID: 194409840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_63
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 4780
+        width: 159
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386a1602d909d0444a4fd93cf6a1c6f0
+      internalID: 91521713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 4195
+        width: 159
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ff74a8e4124264fab92ec30023ba81
+      internalID: -1176952589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_65
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 4195
+        width: 163
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e4667ccd996745b3ee65e32069a00
+      internalID: 279383495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_66
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 4195
+        width: 165
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8740f1c0faaf12e4fb120be586e7d74f
+      internalID: -1300912244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_67
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 4195
+        width: 163
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a4a08e017c54f419cc9c538491beb9
+      internalID: 951884775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_68
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 4195
+        width: 163
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eef74c89f71bf449c1cfe3d3f4a8cd
+      internalID: -700671134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_69
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 4192
+        width: 165
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade4ba336d1851f4cbfc05c399772ff4
+      internalID: -348821199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_70
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 4191
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a3fcee1b8218b4498d3e4ed62caa90
+      internalID: 1041444543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_71
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 4195
+        width: 164
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfba67fa76031f419e1c30607acf5f4
+      internalID: -2100835969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3611
+        width: 163
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c92fabe1b73444a5da5258c36deab
+      internalID: -1515995682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_73
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 3611
+        width: 165
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c78e37dff0042e45b6cdba81df01500
+      internalID: -689287265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_74
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 3611
+        width: 163
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83d2d49010fa214ab1443dd928a335c
+      internalID: 2134505927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_75
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 3611
+        width: 159
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8623f9c4663679546866251b244b526b
+      internalID: -1347615790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_76
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 3612
+        width: 159
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec6e6c5933b16e4b88bca42c08985f6
+      internalID: -1387254179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_77
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 3616
+        width: 159
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849d39ee9a0246649b4247ec894175cc
+      internalID: 1087056188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_78
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 3616
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8e6fdbdadb1e4a920b1fc57b52983
+      internalID: -836036246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_79
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 3616
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22234f3a6c69be8499f7380172fe72b3
+      internalID: -353109386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_80
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3032
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb37fe1e9b0e0c4db3b30516a4cd01c
+      internalID: -1886553336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_81
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 3033
+        width: 155
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30313392d3603f45852e8400d8f00b0
+      internalID: -1223244361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_82
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 3036
+        width: 155
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b1be12850b30541ac06476745f5fd3
+      internalID: -2088719399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_83
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 3036
+        width: 155
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58005b2dbc8563b41addd3125ba8f8e1
+      internalID: -198993038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_84
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 3036
+        width: 155
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506f9caddce58444bb41c47dc72ee4db
+      internalID: -1409548537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_85
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 3036
+        width: 155
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef9d9d4ef7c2b04497545fb280bc05d
+      internalID: 607096851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_86
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 3037
+        width: 155
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa9a9a5945594a4f8fff8ea06d290df
+      internalID: 1626408770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_87
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 3041
+        width: 151
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2449f33a565824abdffccfce6f1c77
+      internalID: 249699668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_88
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2457
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a47621bdd6821459bc17ea124058fc
+      internalID: 50564846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_89
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2457
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d4497b05ab3640a7451de4d32fb6f
+      internalID: 1276035742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_90
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 2457
+        width: 150
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1206d96124849b840bae8f35df93a4f9
+      internalID: -836884214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_91
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2457
+        width: 151
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33385ae374c2d4c4f82b3124ed48d69e
+      internalID: 401278541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_92
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 2461
+        width: 151
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce027e3cfbaa944f9a67118c2e783f5
+      internalID: 620241306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_93
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 2457
+        width: 150
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c1a470b0f07645a5b8d74acb782da
+      internalID: -1347465470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_94
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 2457
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868de108771a9484bbcd0460b3e5ab1f
+      internalID: 1152414547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_95
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 2457
+        width: 151
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2acc4485ee77d4180b456ec0950aae
+      internalID: 1518382065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1873
+        width: 151
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cba658bf5ca6954e979e661e27a44bb
+      internalID: 1606703623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_97
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1873
+        width: 155
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c8b00a00b50a48ad1a44289c4fc56
+      internalID: -1125693050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_98
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1869
+        width: 155
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05300e4e79546bc4aa29067793893dff
+      internalID: 1099490948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_99
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1868
+        width: 155
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2007c09a109e24c9689ad301d32e1e
+      internalID: -2012947763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_100
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1868
+        width: 155
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dc8833b895976499f1f7f66f010750
+      internalID: -906165019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_101
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1868
+        width: 155
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8808d7c8f892095418682f73ea5f9be7
+      internalID: -1347312548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_102
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 1868
+        width: 155
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0b7288781a674c8a65b9d64d933c2
+      internalID: 173658585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_103
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 1864
+        width: 159
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93691fdec783f1a4d8feaa044c1ed1b7
+      internalID: -276027540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1280
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1e510943ce2c94b8d5b6590e0c351d
+      internalID: 1364598926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_105
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1280
+        width: 159
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541998ddbd2013647a625b48db3db922
+      internalID: -373591796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_106
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1280
+        width: 159
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41507511f16f1d478850c149b8b5135
+      internalID: -884550577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_107
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1280
+        width: 159
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63099679450cf94f8bc035d07eb5274
+      internalID: -999861540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_108
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1275
+        width: 159
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b921360c799172e4587a5ac7e3ffdf84
+      internalID: -401276553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_109
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 1275
+        width: 163
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4700f16edbbe9f04881c49545e2c2a25
+      internalID: 1644200780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_110
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 1275
+        width: 165
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047000434c774884495d8166994b6d2d
+      internalID: 29835577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_111
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 1275
+        width: 163
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b2b0db9b268a14fa6df8dcfa0c259a
+      internalID: -1402515297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_112
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 691
+        width: 164
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a452647bd9028114f939c3ec99dd21fb
+      internalID: 1696709829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_113
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 687
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e213fc6e16b06479bf46357b233704
+      internalID: -1293074904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_114
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 687
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3a6fd5fe027324184ed176fc83736b
+      internalID: 1223665174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_115
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 687
+        width: 164
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb1bbae0993ab74a9a140da3c565d13
+      internalID: 1592216967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_116
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 687
+        width: 167
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8b9d61cd5a7a439f829837d511a76
+      internalID: 699480803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_117
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 687
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6959e0c62d88448baffd4e57137ede
+      internalID: -601864835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_118
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 687
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1a2787dee82e049bdca4a012009a5a
+      internalID: 885429402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_119
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 687
+        width: 164
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b773a6b68777de747a29374a7f473ac9
+      internalID: -65424901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_120
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 103
+        width: 167
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfc5585272f5bb40894e266003aa3c8
+      internalID: 1449194031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba grande_121
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 103
+        width: 165
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14af4bfbab182f2419ae7353685ad958
+      internalID: 499169492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bomba grande_0: 617995964
+      bomba grande_1: 864222025
+      bomba grande_10: 16264922
+      bomba grande_100: -906165019
+      bomba grande_101: -1347312548
+      bomba grande_102: 173658585
+      bomba grande_103: -276027540
+      bomba grande_104: 1364598926
+      bomba grande_105: -373591796
+      bomba grande_106: -884550577
+      bomba grande_107: -999861540
+      bomba grande_108: -401276553
+      bomba grande_109: 1644200780
+      bomba grande_11: -607077526
+      bomba grande_110: 29835577
+      bomba grande_111: -1402515297
+      bomba grande_112: 1696709829
+      bomba grande_113: -1293074904
+      bomba grande_114: 1223665174
+      bomba grande_115: 1592216967
+      bomba grande_116: 699480803
+      bomba grande_117: -601864835
+      bomba grande_118: 885429402
+      bomba grande_119: -65424901
+      bomba grande_12: -1564563379
+      bomba grande_120: 1449194031
+      bomba grande_121: 499169492
+      bomba grande_13: -833712680
+      bomba grande_14: -1304679109
+      bomba grande_15: -1207631993
+      bomba grande_16: 847617438
+      bomba grande_17: -1756646923
+      bomba grande_18: -1960461245
+      bomba grande_19: 482853786
+      bomba grande_2: 1196400406
+      bomba grande_20: -515105534
+      bomba grande_21: -138001323
+      bomba grande_22: -752791231
+      bomba grande_23: -1804370446
+      bomba grande_24: 1373952045
+      bomba grande_25: -1886221201
+      bomba grande_26: -1841279874
+      bomba grande_27: 697960644
+      bomba grande_28: -1873932332
+      bomba grande_29: 539454611
+      bomba grande_3: -2129758680
+      bomba grande_30: -468666273
+      bomba grande_31: -422294499
+      bomba grande_32: 20918878
+      bomba grande_33: -348970626
+      bomba grande_34: 361300072
+      bomba grande_35: 1211895609
+      bomba grande_36: -1031450677
+      bomba grande_37: -1256665030
+      bomba grande_38: -998471769
+      bomba grande_39: 522404310
+      bomba grande_4: -1468734087
+      bomba grande_40: 1887784548
+      bomba grande_41: 1810157818
+      bomba grande_42: -1140074768
+      bomba grande_43: 1895335322
+      bomba grande_44: 652998588
+      bomba grande_45: 1503249761
+      bomba grande_46: 258863816
+      bomba grande_47: -706652760
+      bomba grande_48: -918825262
+      bomba grande_49: -35177994
+      bomba grande_5: 1434788312
+      bomba grande_50: -648975238
+      bomba grande_51: -71984346
+      bomba grande_52: 2009967835
+      bomba grande_53: -690509475
+      bomba grande_54: -1886443924
+      bomba grande_55: 1902113519
+      bomba grande_56: 1364796293
+      bomba grande_57: 1406314684
+      bomba grande_58: 1220207928
+      bomba grande_59: 1988110640
+      bomba grande_6: -405011957
+      bomba grande_60: -1801424133
+      bomba grande_61: -1884525335
+      bomba grande_62: 194409840
+      bomba grande_63: 91521713
+      bomba grande_64: -1176952589
+      bomba grande_65: 279383495
+      bomba grande_66: -1300912244
+      bomba grande_67: 951884775
+      bomba grande_68: -700671134
+      bomba grande_69: -348821199
+      bomba grande_7: 1266948706
+      bomba grande_70: 1041444543
+      bomba grande_71: -2100835969
+      bomba grande_72: -1515995682
+      bomba grande_73: -689287265
+      bomba grande_74: 2134505927
+      bomba grande_75: -1347615790
+      bomba grande_76: -1387254179
+      bomba grande_77: 1087056188
+      bomba grande_78: -836036246
+      bomba grande_79: -353109386
+      bomba grande_8: -58394780
+      bomba grande_80: -1886553336
+      bomba grande_81: -1223244361
+      bomba grande_82: -2088719399
+      bomba grande_83: -198993038
+      bomba grande_84: -1409548537
+      bomba grande_85: 607096851
+      bomba grande_86: 1626408770
+      bomba grande_87: 249699668
+      bomba grande_88: 50564846
+      bomba grande_89: 1276035742
+      bomba grande_9: -573037816
+      bomba grande_90: -836884214
+      bomba grande_91: 401278541
+      bomba grande_92: 620241306
+      bomba grande_93: -1347465470
+      bomba grande_94: 1152414547
+      bomba grande_95: 1518382065
+      bomba grande_96: 1606703623
+      bomba grande_97: -1125693050
+      bomba grande_98: 1099490948
+      bomba grande_99: -2012947763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

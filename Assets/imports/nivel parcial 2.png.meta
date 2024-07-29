@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 9fcad6895a297e74e86201c7cb45253e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nivel parcial 2_0
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 858
+        width: 582
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b769c217e80a45a8bbc9100b3afde
+      internalID: 1058590402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel parcial 2_1
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 627
+        width: 583
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466e7dc08037c2142b7b3ac02673f9b3
+      internalID: 2060897572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel parcial 2_2
+      rect:
+        serializedVersion: 2
+        x: 4916
+        y: 612
+        width: 587
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62a7ff4a18c0414aa0cdcbe0c1a87f3
+      internalID: -945173762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel parcial 2_3
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 478
+        width: 522
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b98c267591af2c468420486d1dc7426
+      internalID: 1714321643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel parcial 2_4
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 482
+        width: 989
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c64ee732bd6fb541a4437a86c888889
+      internalID: 254047842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel parcial 2_5
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 447
+        width: 583
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b18f8ff06c0046a61c247501fcb3b
+      internalID: 1600818318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel parcial 2_6
+      rect:
+        serializedVersion: 2
+        x: 5395
+        y: 447
+        width: 583
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fe873cddfdf854bb350b808bbbebc0
+      internalID: -380493405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel parcial 2_7
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 294
+        width: 583
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a6704ea510596448001f58b1eebb94
+      internalID: -1888158293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel parcial 2_8
+      rect:
+        serializedVersion: 2
+        x: 5790
+        y: 259
+        width: 583
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1396ae77359ba46878cb834fd98c1e
+      internalID: -900302326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nivel parcial 2_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 7678
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb55d179bee1ed4482d38ede937f04f
+      internalID: 1140830657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nivel parcial 2_0: 1058590402
+      nivel parcial 2_1: 2060897572
+      nivel parcial 2_10: 1814962203
+      nivel parcial 2_11: -377632146
+      nivel parcial 2_12: 1500341441
+      nivel parcial 2_13: 1815780889
+      nivel parcial 2_14: -2007216641
+      nivel parcial 2_15: 547558079
+      nivel parcial 2_16: 2119471297
+      nivel parcial 2_17: 774040874
+      nivel parcial 2_18: 270363548
+      nivel parcial 2_19: -857887808
+      nivel parcial 2_2: -945173762
+      nivel parcial 2_20: 2069532319
+      nivel parcial 2_21: -1309476649
+      nivel parcial 2_22: 730667499
+      nivel parcial 2_23: -1088850789
+      nivel parcial 2_24: 1692099297
+      nivel parcial 2_25: 847545407
+      nivel parcial 2_26: -315800985
+      nivel parcial 2_27: -1201547241
+      nivel parcial 2_28: 1966922
+      nivel parcial 2_29: 1782613178
+      nivel parcial 2_3: 1714321643
+      nivel parcial 2_30: 1140830657
+      nivel parcial 2_4: 254047842
+      nivel parcial 2_5: 1600818318
+      nivel parcial 2_6: -380493405
+      nivel parcial 2_7: -1888158293
+      nivel parcial 2_8: -900302326
+      nivel parcial 2_9: -1750802139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

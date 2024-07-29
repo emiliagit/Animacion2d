@@ -1,0 +1,1566 @@
+fileFormatVersion: 2
+guid: 228e13efaac6e4f4e8b34c9524f4fe78
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: defensa_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3334
+        width: 366
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3089d880a725ab74581dc2671728f609
+      internalID: 1960244349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3330
+        width: 362
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55165b8999527594ab65b11dc374c240
+      internalID: -1386610986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3327
+        width: 359
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9999242872d6142a421f4890effa29
+      internalID: 1278375898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_3
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3323
+        width: 355
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbc961c515bee04fbc491ff55d67615
+      internalID: 253243590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_4
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 3321
+        width: 352
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0938cc114c06f4e87ebc658acb5a3c
+      internalID: -265336123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_5
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 3319
+        width: 349
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb3fbb753c046e4ca6ca663a25a14e4
+      internalID: 2113061185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_6
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3318
+        width: 349
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a85ddb40885edb4ea77b135f25e335e
+      internalID: -1236333164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_7
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 3317
+        width: 350
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec55d1496fae21a4fa1a58bc4db23aea
+      internalID: -1204623817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2903
+        width: 348
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b73a7c5acb9d4fa68e9d7da3a019e
+      internalID: 940050646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2901
+        width: 345
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5743cc7dfae964db0047f730f24c48
+      internalID: 258930893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_10
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2902
+        width: 344
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d64443eba63ae448b82232e561d5763
+      internalID: -2034781954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_11
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2903
+        width: 343
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940fa8f604ad46418c575512db6e69f
+      internalID: 633183745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_12
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2904
+        width: 340
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a102e07a83e8e4fb803c8a1a0b7eac
+      internalID: -1502799550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_13
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 2905
+        width: 342
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce36d5c96c03fd4d8cf8840e7c4158e
+      internalID: 1409210845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_14
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 2907
+        width: 341
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9a859ba3955dd4c8f99c612e538e2f
+      internalID: -711314252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_15
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 2910
+        width: 342
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bd001dbf05fe1419a3260879f341da
+      internalID: -1716488392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2499
+        width: 341
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e545b04c7162b6541a2dbbb168a3b000
+      internalID: 828957194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2503
+        width: 340
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa738762a051044a8d72e1a64895e8a
+      internalID: 144881553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2506
+        width: 342
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5172f9687c56f3c46a82daaf10cebc68
+      internalID: -1713402983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_19
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2508
+        width: 340
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a3f565fd7f0648afe37fd40f0175d
+      internalID: -1808327042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_20
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2512
+        width: 339
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c9cd5bee0d2e409cdf8f63bbc51d9
+      internalID: 1336935734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_21
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 2513
+        width: 338
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38d80ab20fa9bc44a36d362a6643f05
+      internalID: 964858291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_22
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 2513
+        width: 338
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2342702c2719d40849306693dcd8bc
+      internalID: 1375093009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_23
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 2513
+        width: 339
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6410b45fd899fa14993f28f57bf1cb36
+      internalID: -489089903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2099
+        width: 337
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fab1f7fb1cc8047a9955d9f80d210e
+      internalID: -1499519751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2099
+        width: 334
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436abfab0dcb8564c9a594b91c57c4e2
+      internalID: -268922663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_26
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 2099
+        width: 335
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b422e45476ca8409ba28ac9a5c890b
+      internalID: 1401103211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_27
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2099
+        width: 334
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b94875b36b82d49a35054d280c8915
+      internalID: 849977274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_28
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2099
+        width: 333
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356266389c8f9b4f9ffb69e78d5fb9c
+      internalID: 686659042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_29
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2099
+        width: 331
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cbdc7d095711a408bcaeee6877953a
+      internalID: 337896770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_30
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 2099
+        width: 331
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b797ecf874e21f44ac8da7a0edf2669
+      internalID: -362323647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_31
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 2099
+        width: 330
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b132c172c936144a84efddb2283c26
+      internalID: 2100524154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1686
+        width: 329
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e786c3018161441868194fd4a59fc2
+      internalID: 1478065189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_33
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1685
+        width: 331
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9de0f655503145b4cc3824454df46
+      internalID: 2101367340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_34
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1685
+        width: 330
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f32cf8c9e91614eaca835079a80804
+      internalID: -1327344505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_35
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1686
+        width: 330
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e1af02824c674d9ca7a270a61ffc1
+      internalID: -672180882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_36
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1685
+        width: 331
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ac55bdb4591324aadad2d5cd666924
+      internalID: -1763068802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_37
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1685
+        width: 331
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3808256f699874784f320745b29833
+      internalID: -695989818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_38
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 1686
+        width: 331
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353ac0402045274399ea9e4dd75ce04
+      internalID: -2118311907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_39
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 1685
+        width: 333
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263da5f291339e24eb7cb2106408d162
+      internalID: -244120413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1271
+        width: 334
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c26b0127f7e26488a4fb6315649345
+      internalID: 1722427052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_41
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1271
+        width: 337
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f32a30ee85d7469005386530de090
+      internalID: 264345816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_42
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1271
+        width: 337
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd64e58027336234898333dbd1d357ac
+      internalID: -1579713984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_43
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1271
+        width: 338
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de93492c86a0004083b2c9a47629da9
+      internalID: -112624414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_44
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1271
+        width: 340
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efe64ac0245b0b44bfec99233cdab39
+      internalID: -1037008809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_45
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1271
+        width: 342
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebc5ea632e83d2449040cad80359b77
+      internalID: 1290620340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_46
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1271
+        width: 340
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fcaa8f0681973478beafe133e8ea88
+      internalID: 432102484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_47
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1271
+        width: 342
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47faedd486eea5f4b9f9db9f665af1fd
+      internalID: -1299299779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_48
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 856
+        width: 344
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c791cc1b10a48924c9006a4cbabcd129
+      internalID: 881944154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_49
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 856
+        width: 344
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde81d91831c07445b411d01abdcc863
+      internalID: -698166452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_50
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 856
+        width: 346
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbd825c5b0f3e04d99970b26709b73e
+      internalID: -1602063780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_51
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 856
+        width: 345
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401bcb99e991abd4ab6d148cd2b14d55
+      internalID: -396004587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_52
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 856
+        width: 347
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67383a504a9123c4e99d182348c6c819
+      internalID: 328395800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_53
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 856
+        width: 348
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c66131791d6954419129b9aa714955d
+      internalID: -1756974076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_54
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 856
+        width: 349
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54226877014b294cbf4f315bf4fcbe4
+      internalID: 827363654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_55
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 856
+        width: 348
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82243950ff6e15b4bb40076c4b0eee14
+      internalID: -54321852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 443
+        width: 349
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5a6b5fa9983cb4384c1578101e4e94
+      internalID: 701332248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_57
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 443
+        width: 350
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0db36c0b4d3558479a2c4734c1dbe48
+      internalID: 1868906930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_58
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 443
+        width: 351
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e943cfe90d41c4a961e3e99052dd30
+      internalID: -69211614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_59
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 443
+        width: 349
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbd047384d724144b2f1ad2c49bfea7
+      internalID: 1032959130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_60
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 443
+        width: 349
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7a43f6d55bd9d4582de9cef3527f9d
+      internalID: -1781899105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_61
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 443
+        width: 349
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef2d4e69e2e412439672cd46983b839
+      internalID: -1118619856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_62
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 443
+        width: 350
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4501e2e7d5d60904aad3c363a252f827
+      internalID: 1369793801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_63
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 443
+        width: 351
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cb6cde4301fb44fbffdbcaffec6d7b
+      internalID: -1882737926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_64
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 28
+        width: 349
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a85db57d538964a84c0ad4005bfa48
+      internalID: 460139176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defensa_65
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 28
+        width: 350
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f38ec513f58334baf204b1b871fd2a
+      internalID: -314559142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      defensa_0: 1960244349
+      defensa_1: -1386610986
+      defensa_10: -2034781954
+      defensa_11: 633183745
+      defensa_12: -1502799550
+      defensa_13: 1409210845
+      defensa_14: -711314252
+      defensa_15: -1716488392
+      defensa_16: 828957194
+      defensa_17: 144881553
+      defensa_18: -1713402983
+      defensa_19: -1808327042
+      defensa_2: 1278375898
+      defensa_20: 1336935734
+      defensa_21: 964858291
+      defensa_22: 1375093009
+      defensa_23: -489089903
+      defensa_24: -1499519751
+      defensa_25: -268922663
+      defensa_26: 1401103211
+      defensa_27: 849977274
+      defensa_28: 686659042
+      defensa_29: 337896770
+      defensa_3: 253243590
+      defensa_30: -362323647
+      defensa_31: 2100524154
+      defensa_32: 1478065189
+      defensa_33: 2101367340
+      defensa_34: -1327344505
+      defensa_35: -672180882
+      defensa_36: -1763068802
+      defensa_37: -695989818
+      defensa_38: -2118311907
+      defensa_39: -244120413
+      defensa_4: -265336123
+      defensa_40: 1722427052
+      defensa_41: 264345816
+      defensa_42: -1579713984
+      defensa_43: -112624414
+      defensa_44: -1037008809
+      defensa_45: 1290620340
+      defensa_46: 432102484
+      defensa_47: -1299299779
+      defensa_48: 881944154
+      defensa_49: -698166452
+      defensa_5: 2113061185
+      defensa_50: -1602063780
+      defensa_51: -396004587
+      defensa_52: 328395800
+      defensa_53: -1756974076
+      defensa_54: 827363654
+      defensa_55: -54321852
+      defensa_56: 701332248
+      defensa_57: 1868906930
+      defensa_58: -69211614
+      defensa_59: 1032959130
+      defensa_6: -1236333164
+      defensa_60: -1781899105
+      defensa_61: -1118619856
+      defensa_62: 1369793801
+      defensa_63: -1882737926
+      defensa_64: 460139176
+      defensa_65: -314559142
+      defensa_7: -1204623817
+      defensa_8: 940050646
+      defensa_9: 258930893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2402 @@
+fileFormatVersion: 2
+guid: 52093d62dc0619243aa097fe7af51e49
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: comida_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7205
+        width: 266
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75343e5efd8fd04a9d3853c8c8d94c5
+      internalID: -1352678970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_1
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 7205
+        width: 263
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32d97a7aaed1d7458fc14eea52172c1
+      internalID: -543881953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_2
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 7205
+        width: 267
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68fbbfbf88468b4eb160ccac3c46d92
+      internalID: -1340682007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_3
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 7201
+        width: 267
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be640efa3c6380469c4c70f80a5255a
+      internalID: -1522850355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_4
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 7201
+        width: 270
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975a9259e6d2fc244912f7ff102c3005
+      internalID: 1324935454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_5
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 7201
+        width: 270
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64f4136c9bb3d49b716c612ac72dd8
+      internalID: -1404938600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_6
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 7201
+        width: 270
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b4979608ca78f48864f78f0844a3cf
+      internalID: -892367875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_7
+      rect:
+        serializedVersion: 2
+        x: 4213
+        y: 7201
+        width: 274
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c21b472b1fa5344ba7fd9a5408678fd
+      internalID: -253817173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6615
+        width: 274
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043c6cc28122a1d4fbcf6cef46b7a97f
+      internalID: 2025950207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 6615
+        width: 274
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc35be437fe7104aaea981c2516df99
+      internalID: -439166058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_10
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 6615
+        width: 276
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4ee5f2c93c05c4f93e5e17d331f00f
+      internalID: 404246297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_11
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 6615
+        width: 278
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3439973fa54d9448addf0b4bde007e
+      internalID: 1472527332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_12
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 6615
+        width: 282
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2bb20d5fb0b745bab8902a055807b
+      internalID: 1792368565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_13
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 6615
+        width: 278
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea55820f13ee8448c192a5e5c93215
+      internalID: 1686282198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_14
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 6615
+        width: 282
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e45c4802d66f46a2849641c5264d9
+      internalID: -2134426323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_15
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 6615
+        width: 283
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d847e9fab3e92664e80eec6883c03848
+      internalID: -1649518676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6030
+        width: 282
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4371d23c32c5f5a44bc7873d00abb5e2
+      internalID: 618125475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_17
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 6030
+        width: 286
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff58adb170743f47be8d19fb387a744
+      internalID: -1062054741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_18
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 6030
+        width: 285
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0537d8d1990586e4c9d9cbe6b7048cae
+      internalID: -5384402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_19
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 6030
+        width: 289
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e34d6a98788945bbf835e94b58fda
+      internalID: 2086914361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_20
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 6030
+        width: 287
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c471e82f9249e74fada4131c3748422
+      internalID: -903960201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_21
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 6027
+        width: 289
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86df7c33cd393334ea6d47e4fdfc940f
+      internalID: -389319939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_22
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 6026
+        width: 293
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251003ba6914ad344b3673cf9cc56163
+      internalID: 1403757841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_23
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 6026
+        width: 293
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e2226fe76571342b3b03c9b88b4c1d
+      internalID: -1347439899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 5444
+        width: 293
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a68352093693a546a9b937dc98cdb21
+      internalID: -1481324043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_25
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 5444
+        width: 293
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebedfecc5b636734cacfaf3d38952fc8
+      internalID: 1795117852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_26
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 5444
+        width: 296
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb124e7085defa40a92c617238f9c8d
+      internalID: 463090699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_27
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 5444
+        width: 292
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643cf2104288264288d12ee765eb435
+      internalID: 664545092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_28
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 5444
+        width: 293
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b674bced35bc49941a11c3febc6c0
+      internalID: 1906884296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_29
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 5444
+        width: 289
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4202744ad46876a47b870184c8fe2b98
+      internalID: 1856188102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_30
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 5444
+        width: 289
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83bb882800942e4480f25263db96a48
+      internalID: 930484819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_31
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 5444
+        width: 287
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e0243567990a243a8c15246645532d
+      internalID: 1877869340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 4862
+        width: 289
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6cabab9f181c449cea89c4270477e
+      internalID: 1180637443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_33
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 4862
+        width: 286
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999a6a5ef1aefe49a43ad57cefe1409
+      internalID: 1599885093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_34
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 4862
+        width: 285
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5118c07d2a691149ba2bbb9e9fcf033
+      internalID: -658244985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_35
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 4862
+        width: 282
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff10e96020590f4eb2093f77ba246a7
+      internalID: 544291688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_36
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 4862
+        width: 282
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a11055855ed0bd448295880dc601982
+      internalID: -1970445849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_37
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 4862
+        width: 280
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2632e58771ada904f9f569a10474aa2a
+      internalID: -236476066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_38
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 4862
+        width: 281
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53973fd6619aed44803482190abaa44
+      internalID: 1827594338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_39
+      rect:
+        serializedVersion: 2
+        x: 4213
+        y: 4862
+        width: 278
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e73c2becceb664d9e4151297d2c12f
+      internalID: 635376399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 4280
+        width: 278
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a36ad5357c156b4194d12c4e6ec083d
+      internalID: -946761340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_41
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 4280
+        width: 276
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f82b13916fd8488f6bdbafcd5a6e7
+      internalID: -1020476524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_42
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 4280
+        width: 274
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bd67bd2fab8664a896c26f073b8022
+      internalID: 1480348496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_43
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 4280
+        width: 277
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fc86233d96a294991c2a60f56603d7
+      internalID: -153747964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_44
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 4280
+        width: 274
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef7a36d5fb9e2548adcc4c2ff909139
+      internalID: 2009493506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_45
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 4280
+        width: 274
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82699668e2afcc7489b65ebc6345db1f
+      internalID: -1872967224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_46
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 4280
+        width: 270
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29cb65fcbb0c1649a903077cb19ae22
+      internalID: -1505387452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_47
+      rect:
+        serializedVersion: 2
+        x: 4213
+        y: 4283
+        width: 271
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c2fe5429d46d54aae2585c8401cf89
+      internalID: -1191945971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_48
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3698
+        width: 266
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1145a06f3baac4646ae9599cd4601852
+      internalID: 254958013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_49
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 3698
+        width: 270
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5337bc78beee904faa68b3b2c7a9ffd
+      internalID: -272856062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_50
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 3698
+        width: 267
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873d3e89f3020004faedd8d0a6c56d56
+      internalID: -2092171346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_51
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 3698
+        width: 267
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff354eae316ed04ea126e30317880f3
+      internalID: -848819154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_52
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 3699
+        width: 264
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a873df95698cd4fb14422061041843
+      internalID: 386890474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_53
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 3698
+        width: 267
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd97fafce7b9d146bd9a9ddbbb37fd6
+      internalID: -2116482179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_54
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 3698
+        width: 266
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7001cc7d993e30d489b3eafcf16b60da
+      internalID: -455546171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_55
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 3698
+        width: 267
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117302a2562939c4ebfd15a6d6694d17
+      internalID: 237490755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_56
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3116
+        width: 270
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836441dea04c4f64fa89ddd80284b416
+      internalID: 504080609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_57
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 3112
+        width: 271
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde72e8610515dc4aace8ae43616ce72
+      internalID: -1841510940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_58
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 3112
+        width: 274
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c552f926b42e4b43aeb3ae26638c081
+      internalID: 1324630958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_59
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 3112
+        width: 273
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8707a5a9348bfa84a828a9e074137270
+      internalID: 1096264022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_60
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 3112
+        width: 274
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a7b02ad3cdb9e47b7a0de49b3e9325
+      internalID: 1795000365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_61
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3112
+        width: 278
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431f28ed4704be4290e0b2bbebac255
+      internalID: -346923146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_62
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 3112
+        width: 278
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5000768e563525b408028e3a59bd937a
+      internalID: 1043372369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_63
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 3112
+        width: 280
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ad19bdc28d2b44b4051ef00920cca
+      internalID: -407876906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2526
+        width: 281
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea358dc03faa04547bd09c064469f986
+      internalID: -542919782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_65
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2526
+        width: 282
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c455aa0ea229145a5ade072a69a2b0
+      internalID: 1318094188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_66
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2526
+        width: 285
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a7e1b3a1a001841bf73e92ed0491cf
+      internalID: 1683104548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_67
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 2526
+        width: 284
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71495ccd42dbcdc44aa7e0095de44975
+      internalID: -301908370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_68
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 2526
+        width: 285
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25218edf6ee6446be9d8014a973fa1
+      internalID: 6978938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_69
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 2523
+        width: 289
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edecce79156d584d87c9c0585f2146e
+      internalID: 1104326224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_70
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 2523
+        width: 289
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7698cd4789788a46b814c28448d1668
+      internalID: -10653349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_71
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 2523
+        width: 291
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaf67651c144ce41be5aa27c6f056bf
+      internalID: -1957130514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1941
+        width: 293
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29eec56a40f4864db5aa8653d06dd90
+      internalID: -1137517260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_73
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1937
+        width: 293
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b4610c11611548aca237389ee301e
+      internalID: 2009798542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_74
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1937
+        width: 297
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b11763f78be4247b405f3ab9a28a50
+      internalID: 1089481505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_75
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1937
+        width: 292
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4b92e2063c7ce4c89e226ee7906b17
+      internalID: 415288519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_76
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1941
+        width: 293
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1f15e78f7ec14697f7a06f375c9ef
+      internalID: 1198830275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_77
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 1941
+        width: 289
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a4a3ec4412c2f40bb92b66a6037706
+      internalID: -960141572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_78
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 1941
+        width: 289
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d109e62ee6f0c4a9e2a4b3c6fccc17
+      internalID: -972956153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_79
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 1941
+        width: 288
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e18d7f9622a0408311826c0b3f4c9
+      internalID: -906111690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1355
+        width: 289
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c82d65139b4e04a95114c91f9be261
+      internalID: 1819499189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_81
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1359
+        width: 286
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8df501ee9f0b34f95a9de147936a9c
+      internalID: 355414468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_82
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1359
+        width: 285
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c489f5ce5cc9f4c8f200b642d5701f
+      internalID: -655593596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_83
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1359
+        width: 282
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb001975e41ff9a4ea8f77ebe34ca92b
+      internalID: 572982288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_84
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 1359
+        width: 282
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a67e17a57bc51c42b722b890bca26c3
+      internalID: -2146843750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_85
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1359
+        width: 278
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3a62fb07fc41247befb027ecd4c436
+      internalID: 1741546591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_86
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 1359
+        width: 278
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21488453fa824a54c82fab58e5f8a452
+      internalID: -2062183945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_87
+      rect:
+        serializedVersion: 2
+        x: 4213
+        y: 1359
+        width: 278
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9365b0be6c8df42ab6cf4d4599ed72
+      internalID: -1648004959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_88
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 777
+        width: 278
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815384e17eb10c344bb2380005b53c99
+      internalID: -1149390869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_89
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 777
+        width: 274
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e491db5c18cc1de48bd16623dc9cf46a
+      internalID: -1398972710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_90
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 777
+        width: 274
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a0b0f628bb2ec45ae3ca2907a1651a
+      internalID: -139380057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_91
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 777
+        width: 271
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e963c04ff6c844d8cda73ba801777d
+      internalID: 469128768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_92
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 777
+        width: 270
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e030b5bb1d6c53d43a1073ee514a60e4
+      internalID: 842535213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_93
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 777
+        width: 267
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0899bb1089c0942bb109ada6e16619
+      internalID: -1439968027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_94
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 777
+        width: 270
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0108eb180d15e748a6e0543af0ca39a
+      internalID: 1828131771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_95
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 780
+        width: 267
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c3e269d92846447a77832ac0d85912
+      internalID: 1108725327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_96
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 195
+        width: 266
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28d35c621d5284e91fc2dc24be3f9c
+      internalID: -923743154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_97
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 195
+        width: 263
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a85d766eb7b142ad8aadd86f1e7d2
+      internalID: 871310498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_98
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 195
+        width: 264
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2d8cc8a3c9c0f4395dbb0f367bf217
+      internalID: -1798547847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_99
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 195
+        width: 267
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ba0feb8fa172a47925415162e396bb
+      internalID: -998386005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_100
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 195
+        width: 264
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4a54fba50184f49b208a79a175d2b4
+      internalID: -1035521922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_101
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 195
+        width: 263
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af337171071023f4e9df5e336e06a87e
+      internalID: -2129393774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_102
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 195
+        width: 266
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c711fd0a9d796ad479a2df9b66ab111c
+      internalID: -733508440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_103
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 195
+        width: 263
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56f7a9a22bbf249a6a7b6343eb7d67
+      internalID: 352574870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      comida_0: -1352678970
+      comida_1: -543881953
+      comida_10: 404246297
+      comida_100: -1035521922
+      comida_101: -2129393774
+      comida_102: -733508440
+      comida_103: 352574870
+      comida_11: 1472527332
+      comida_12: 1792368565
+      comida_13: 1686282198
+      comida_14: -2134426323
+      comida_15: -1649518676
+      comida_16: 618125475
+      comida_17: -1062054741
+      comida_18: -5384402
+      comida_19: 2086914361
+      comida_2: -1340682007
+      comida_20: -903960201
+      comida_21: -389319939
+      comida_22: 1403757841
+      comida_23: -1347439899
+      comida_24: -1481324043
+      comida_25: 1795117852
+      comida_26: 463090699
+      comida_27: 664545092
+      comida_28: 1906884296
+      comida_29: 1856188102
+      comida_3: -1522850355
+      comida_30: 930484819
+      comida_31: 1877869340
+      comida_32: 1180637443
+      comida_33: 1599885093
+      comida_34: -658244985
+      comida_35: 544291688
+      comida_36: -1970445849
+      comida_37: -236476066
+      comida_38: 1827594338
+      comida_39: 635376399
+      comida_4: 1324935454
+      comida_40: -946761340
+      comida_41: -1020476524
+      comida_42: 1480348496
+      comida_43: -153747964
+      comida_44: 2009493506
+      comida_45: -1872967224
+      comida_46: -1505387452
+      comida_47: -1191945971
+      comida_48: 254958013
+      comida_49: -272856062
+      comida_5: -1404938600
+      comida_50: -2092171346
+      comida_51: -848819154
+      comida_52: 386890474
+      comida_53: -2116482179
+      comida_54: -455546171
+      comida_55: 237490755
+      comida_56: 504080609
+      comida_57: -1841510940
+      comida_58: 1324630958
+      comida_59: 1096264022
+      comida_6: -892367875
+      comida_60: 1795000365
+      comida_61: -346923146
+      comida_62: 1043372369
+      comida_63: -407876906
+      comida_64: -542919782
+      comida_65: 1318094188
+      comida_66: 1683104548
+      comida_67: -301908370
+      comida_68: 6978938
+      comida_69: 1104326224
+      comida_7: -253817173
+      comida_70: -10653349
+      comida_71: -1957130514
+      comida_72: -1137517260
+      comida_73: 2009798542
+      comida_74: 1089481505
+      comida_75: 415288519
+      comida_76: 1198830275
+      comida_77: -960141572
+      comida_78: -972956153
+      comida_79: -906111690
+      comida_8: 2025950207
+      comida_80: 1819499189
+      comida_81: 355414468
+      comida_82: -655593596
+      comida_83: 572982288
+      comida_84: -2146843750
+      comida_85: 1741546591
+      comida_86: -2062183945
+      comida_87: -1648004959
+      comida_88: -1149390869
+      comida_89: -1398972710
+      comida_9: -439166058
+      comida_90: -139380057
+      comida_91: 469128768
+      comida_92: 842535213
+      comida_93: -1439968027
+      comida_94: 1828131771
+      comida_95: 1108725327
+      comida_96: -923743154
+      comida_97: 871310498
+      comida_98: -1798547847
+      comida_99: -998386005
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

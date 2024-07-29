@@ -1,0 +1,2402 @@
+fileFormatVersion: 2
+guid: fb5319319b6d2f94fa0f815c1b30ae86
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomba simple_0
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7149
+        width: 81
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5ccccf2740f3843aa4a0a22d49a255
+      internalID: -91337519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_1
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 7149
+        width: 84
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428730872b2011641b005e33f7837ab9
+      internalID: -1202460180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_2
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 7146
+        width: 82
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a83a95e1d2012149badfd0af140286c
+      internalID: -541622154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_3
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 7145
+        width: 82
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6698547396d348844a422d75ff847741
+      internalID: -1672167220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_4
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 7145
+        width: 85
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9135d77dd1a1a4d499cb658a9b6c9b56
+      internalID: -2020630060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_5
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 7145
+        width: 82
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22662075d5e1cf44bf8996e990b1aa4
+      internalID: 1738965870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_6
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 7145
+        width: 85
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0c658eb8f72d9448bac2d7c87de1cc
+      internalID: 1573796786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_7
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 7142
+        width: 85
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbbc87a23c55eb4280615c12f7741ad
+      internalID: 1131147346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6560
+        width: 84
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774caaeab45c13e4b9eced21caf94bc6
+      internalID: -2103811405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_9
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 6557
+        width: 85
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2070a705ce565994888afcdbed2dd583
+      internalID: -167210080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_10
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 6556
+        width: 85
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd8ce4e8cba548469f7a6f6863686ba
+      internalID: 1850787750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_11
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 6556
+        width: 85
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc80709a8b3cc84ba975533cc63d7d0
+      internalID: -1507099511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_12
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 6556
+        width: 85
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8ddc6cee098040a483f42a837f55c
+      internalID: -2034356060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_13
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 6556
+        width: 89
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6bd0d0e673fc142955644fad105b3a
+      internalID: 1262083650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_14
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 6553
+        width: 85
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f8a562bbc0ac94f99d4071bb1e58ea
+      internalID: 1880551086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_15
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 6552
+        width: 89
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65940b874ea4af14fbd1546571691644
+      internalID: 1077162238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5967
+        width: 89
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a85b784c94b314a822dc71d4c384e7
+      internalID: 976725220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 5967
+        width: 85
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeee05020116a8c458d8647770085089
+      internalID: 418321924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_18
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 5967
+        width: 89
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf50a07f4fe8da46a436d927a43f5df
+      internalID: -1895794620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_19
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 5966
+        width: 89
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ec9e27192b5a44fa7d5579fdb0c702
+      internalID: -1843170966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_20
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 5966
+        width: 88
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37fa38a2d0cc6540acdb61a8210438b
+      internalID: 1614627467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_21
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 5963
+        width: 89
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d520afee35d2e24c8d12287ff55e6e6
+      internalID: -1640975259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_22
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 5963
+        width: 92
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c358b0abf6394a54cb43971e0edd913d
+      internalID: -534510433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_23
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 5963
+        width: 89
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b00de12483bda4e98c2dd718e2554a
+      internalID: -1551395584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5381
+        width: 89
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d0a903b221de4b85f42fa60d92902
+      internalID: 1606685101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_25
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 5381
+        width: 92
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a93ef742f10ad24cae2ba70daddb820
+      internalID: 1890484948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_26
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 5381
+        width: 89
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435369b10cd355144b922267733ecf42
+      internalID: 91049239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_27
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 5381
+        width: 89
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db905b1684cf87d46bdaf65629557aa7
+      internalID: -136493763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_28
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 5384
+        width: 87
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb43276e4a31014a87421295d08e398
+      internalID: -1935381476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_29
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 5384
+        width: 89
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70a0f0bba7f3f4fa516137fd35fc96
+      internalID: 898762387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_30
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 5385
+        width: 85
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fb6e7f9a7e01c40be90461c3030b2c
+      internalID: -658473858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_31
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 5385
+        width: 87
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e622d7461d36a4cb39c2891e53e6de
+      internalID: 1306404802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_32
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 4802
+        width: 89
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9259a4007d0724b8be56ec13d9c99d
+      internalID: -1948410607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_33
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4803
+        width: 85
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f75dab68bdbf4897710f96985baf2
+      internalID: -2021113218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_34
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 4803
+        width: 85
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d43b0f2be16c5448db7b9426b08c18
+      internalID: 1132462545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_35
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 4806
+        width: 85
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00601e99b6626e14bbcab35f2a787487
+      internalID: -144652058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_36
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 4806
+        width: 85
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a43a447e0c605418a2165a2e57c797
+      internalID: -1104208840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_37
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 4806
+        width: 82
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e41cce8def9bd4e8659664a9e52020
+      internalID: 1918921049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_38
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 4806
+        width: 85
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0b46412653884e839a0b7d8d0ae92
+      internalID: 921334678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_39
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 4810
+        width: 84
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5914eea14cb8a864bb4a21ec876d237a
+      internalID: 512145818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4224
+        width: 81
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77719768da80ed4fa231bdfad905630
+      internalID: -843332512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_41
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4228
+        width: 85
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbcdf372b532a542a9bf3c5c16231d0
+      internalID: -2060043749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_42
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 4228
+        width: 82
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbbdc8d7cabc604b9df3fceb440c655
+      internalID: -1891927737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_43
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 4228
+        width: 82
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261d932607fe0f498e0111c10fbb606
+      internalID: -1105103477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_44
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 4228
+        width: 82
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee64ae4d42df91428b0ffcdedac3bdf
+      internalID: 1059784538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_45
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 4228
+        width: 81
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d706d48fc4f93498a4ab372c8275bb
+      internalID: 1607016620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_46
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 4232
+        width: 80
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3130406d11abf4fb5d126ad7abef76
+      internalID: -255552381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_47
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 4232
+        width: 81
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535cc9be7d5325f4ba683f89da1cc601
+      internalID: 1163610732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_48
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3650
+        width: 81
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe5dab036fed0744a633298807aa865
+      internalID: 1225158961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_49
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 3650
+        width: 78
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72cac628613fb744b858dd4ca2b5d1d
+      internalID: -973600692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_50
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3650
+        width: 81
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714ef509f6261848bdbe31335cf99fe
+      internalID: 290065364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_51
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 3646
+        width: 82
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f1670d2614874eb46a85b52e039a1
+      internalID: -1599853940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_52
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 3646
+        width: 81
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7290897ba683da948916c229a6d681ab
+      internalID: -53433621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_53
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 3646
+        width: 82
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f78d6016605d439529f9ca0a8284f
+      internalID: 1549544423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_54
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3646
+        width: 81
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84f6e52753c04146b3e03375af7e90c
+      internalID: -86173568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_55
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 3642
+        width: 81
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c397c1c0267a44845be5ca5bee095eff
+      internalID: 1128208297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3057
+        width: 81
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c83715e8823d974ca2840c540d777c1
+      internalID: 1436057546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_57
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 3057
+        width: 85
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddc8423db262ed4483b916af48f508d
+      internalID: 579575425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_58
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 3056
+        width: 82
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c86393940ba7c241a3236464e640a68
+      internalID: -1106166652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_59
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 3056
+        width: 85
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dae85a5862903d47802a3c4590c657b
+      internalID: 1146974974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_60
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 3054
+        width: 85
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6df609fe73e034dae782d75b8a8c8b
+      internalID: -1322493777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_61
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 3053
+        width: 82
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430b9e6cfd14bf748b9f296d5ef15dc8
+      internalID: -1766061250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_62
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3053
+        width: 85
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182146d5de276ec4498da4c8f60eb845
+      internalID: -1969422069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_63
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 3053
+        width: 85
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740083996112b4241bbdcaeadc84bf12
+      internalID: -741044363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_64
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2467
+        width: 89
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4518b1167c41d440a8ce1c9bf3d7782
+      internalID: -1886351258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_65
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2467
+        width: 85
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c4bdb6968c9c4e8d1897c3b0dbbb5
+      internalID: 1789797122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_66
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2464
+        width: 89
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8446bb7ee4bb64ea3d88a0a92df627
+      internalID: 1611482894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_67
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2463
+        width: 88
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1bbb2bb3bfcc4e916a2db9a52de82
+      internalID: -1095733202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_68
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 2463
+        width: 87
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736ae066b92cc744484d2151473b6271
+      internalID: 112610672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_69
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2463
+        width: 89
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc2e0f1c15c3f14f92a062623bad49e
+      internalID: -801775028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_70
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 2460
+        width: 89
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bb73debe67d5e45aa906bf661a3b40
+      internalID: -1491352609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_71
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 2460
+        width: 89
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9191b617c917045a8fcf460d09fd18
+      internalID: -1149444574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_72
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1874
+        width: 89
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc15e5efd03d3147973d501f23667b7
+      internalID: 888919584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_73
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1874
+        width: 92
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17db969d344b73643b0f3ae94b64c318
+      internalID: 1354628069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_74
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1874
+        width: 89
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa14ae7dd60292479aa87b528641a78
+      internalID: 1090624439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_75
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1874
+        width: 89
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b603c92b4540a2a418da3dbdd547ddce
+      internalID: -918581701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_76
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1875
+        width: 92
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5b39e9378049409251c6d3b87e662
+      internalID: 220652928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_77
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1878
+        width: 89
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd74ede61c3293469604fb214b84760
+      internalID: -1739624360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_78
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 1878
+        width: 89
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be07339d10f2434eadada4ff7417564
+      internalID: -1382664676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_79
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 1878
+        width: 89
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6303b0ca5c2a4abbef9907dd5b1e9
+      internalID: 786498460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_80
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1296
+        width: 89
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6a181ced0e1f8479f4805643863920
+      internalID: 1159143827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_81
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1297
+        width: 85
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b945bdaba276ef4bbfd74f2b0594a6f
+      internalID: -951301025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_82
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1299
+        width: 87
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dbfecb7eae28948a8d41dca21d38cd
+      internalID: -1157447434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_83
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1299
+        width: 85
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84158afe4f50f0e4587675640baee2bc
+      internalID: -24430299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_84
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 1300
+        width: 85
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074f2fff2dc922444ac17c6688a8ad7c
+      internalID: -948521138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_85
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 1303
+        width: 82
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b735adeb0d4de2c43a9afa6a7b59901f
+      internalID: -804691145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_86
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 1303
+        width: 85
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabd029930fd6564a85e4da729c1e187
+      internalID: -1927931334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_87
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 1303
+        width: 83
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643f5e7ac8b62aa4f9deded64decacfb
+      internalID: 2020520597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_88
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 721
+        width: 81
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9eefe0287cc3e419fcc9b3ee4beb04
+      internalID: -1887819839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_89
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 721
+        width: 85
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8d2aac3a816a4488b060241641b313
+      internalID: 1045367300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_90
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 725
+        width: 82
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105a1b10b8d316f4b9f38d0957e63ef1
+      internalID: -1149223132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_91
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 725
+        width: 82
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3249605b880d94cadcdb86ed129e47
+      internalID: -1133470868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_92
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 725
+        width: 81
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b2eb6db45209147982171ad0799750
+      internalID: -563972297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_93
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 728
+        width: 81
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04203e621cba2784bba54ca714edcf02
+      internalID: 1885026431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_94
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 728
+        width: 78
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca301a5d2edbcb5449dcda6f0a09afd1
+      internalID: 1872056202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_95
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 729
+        width: 78
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b73ec69ad9d314c9aef62e4145fdb2
+      internalID: -399580112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_96
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 146
+        width: 78
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57ad6e4e440164e844232350d862f3
+      internalID: 431949047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_97
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 147
+        width: 78
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c714184ec2c5c4093c91c12a27eacc
+      internalID: -1030177153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_98
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 147
+        width: 77
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b4325edbf1c8a45ba0cc34bf9e1f28
+      internalID: -1668172706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_99
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 147
+        width: 78
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166c2ef1a57112840b59fc781136552a
+      internalID: 2079738158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_100
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 147
+        width: 78
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab8d715b73c89b4cb02dd303342dc07
+      internalID: 767887836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_101
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 147
+        width: 79
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486c29a3b42f563489bdb5f31a0a68c2
+      internalID: 705410254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_102
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 147
+        width: 78
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b21b1354ae952143bb507e7ce0825a9
+      internalID: 995027175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomba simple_103
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 147
+        width: 78
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73954aa3b9082d4cb029c133c80c30d
+      internalID: -67414082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bomba simple_0: -91337519
+      bomba simple_1: -1202460180
+      bomba simple_10: 1850787750
+      bomba simple_100: 767887836
+      bomba simple_101: 705410254
+      bomba simple_102: 995027175
+      bomba simple_103: -67414082
+      bomba simple_11: -1507099511
+      bomba simple_12: -2034356060
+      bomba simple_13: 1262083650
+      bomba simple_14: 1880551086
+      bomba simple_15: 1077162238
+      bomba simple_16: 976725220
+      bomba simple_17: 418321924
+      bomba simple_18: -1895794620
+      bomba simple_19: -1843170966
+      bomba simple_2: -541622154
+      bomba simple_20: 1614627467
+      bomba simple_21: -1640975259
+      bomba simple_22: -534510433
+      bomba simple_23: -1551395584
+      bomba simple_24: 1606685101
+      bomba simple_25: 1890484948
+      bomba simple_26: 91049239
+      bomba simple_27: -136493763
+      bomba simple_28: -1935381476
+      bomba simple_29: 898762387
+      bomba simple_3: -1672167220
+      bomba simple_30: -658473858
+      bomba simple_31: 1306404802
+      bomba simple_32: -1948410607
+      bomba simple_33: -2021113218
+      bomba simple_34: 1132462545
+      bomba simple_35: -144652058
+      bomba simple_36: -1104208840
+      bomba simple_37: 1918921049
+      bomba simple_38: 921334678
+      bomba simple_39: 512145818
+      bomba simple_4: -2020630060
+      bomba simple_40: -843332512
+      bomba simple_41: -2060043749
+      bomba simple_42: -1891927737
+      bomba simple_43: -1105103477
+      bomba simple_44: 1059784538
+      bomba simple_45: 1607016620
+      bomba simple_46: -255552381
+      bomba simple_47: 1163610732
+      bomba simple_48: 1225158961
+      bomba simple_49: -973600692
+      bomba simple_5: 1738965870
+      bomba simple_50: 290065364
+      bomba simple_51: -1599853940
+      bomba simple_52: -53433621
+      bomba simple_53: 1549544423
+      bomba simple_54: -86173568
+      bomba simple_55: 1128208297
+      bomba simple_56: 1436057546
+      bomba simple_57: 579575425
+      bomba simple_58: -1106166652
+      bomba simple_59: 1146974974
+      bomba simple_6: 1573796786
+      bomba simple_60: -1322493777
+      bomba simple_61: -1766061250
+      bomba simple_62: -1969422069
+      bomba simple_63: -741044363
+      bomba simple_64: -1886351258
+      bomba simple_65: 1789797122
+      bomba simple_66: 1611482894
+      bomba simple_67: -1095733202
+      bomba simple_68: 112610672
+      bomba simple_69: -801775028
+      bomba simple_7: 1131147346
+      bomba simple_70: -1491352609
+      bomba simple_71: -1149444574
+      bomba simple_72: 888919584
+      bomba simple_73: 1354628069
+      bomba simple_74: 1090624439
+      bomba simple_75: -918581701
+      bomba simple_76: 220652928
+      bomba simple_77: -1739624360
+      bomba simple_78: -1382664676
+      bomba simple_79: 786498460
+      bomba simple_8: -2103811405
+      bomba simple_80: 1159143827
+      bomba simple_81: -951301025
+      bomba simple_82: -1157447434
+      bomba simple_83: -24430299
+      bomba simple_84: -948521138
+      bomba simple_85: -804691145
+      bomba simple_86: -1927931334
+      bomba simple_87: 2020520597
+      bomba simple_88: -1887819839
+      bomba simple_89: 1045367300
+      bomba simple_9: -167210080
+      bomba simple_90: -1149223132
+      bomba simple_91: -1133470868
+      bomba simple_92: -563972297
+      bomba simple_93: 1885026431
+      bomba simple_94: 1872056202
+      bomba simple_95: -399580112
+      bomba simple_96: 431949047
+      bomba simple_97: -1030177153
+      bomba simple_98: -1668172706
+      bomba simple_99: 2079738158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

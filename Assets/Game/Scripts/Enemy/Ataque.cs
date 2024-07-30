@@ -7,21 +7,24 @@ public class Ataque : Enemy
     public float radio = 10f; // Radio de detección del jugador
     public float moveSpeed = 0.5f; // Velocidad de movimiento del enemigo
 
-   
 
     private bool playerDetectado = false; // Variable para controlar si el jugador ha sido detectado
     private Vector3 playerPosition;
 
-    private Rigidbody Rb;
+    private Rigidbody2D Rb;
 
     public Animator Animator;
+
+   
+    private bool isDead = false;
+  
 
 
     private void Start()
     {
 
-        hp = 2;
-        Rb = GetComponent<Rigidbody>();
+        //hp = 2;
+        Rb = GetComponent<Rigidbody2D>();
 
         player = GameObject.FindGameObjectWithTag("Player").transform; // Busca el transform del jugador
     }
@@ -30,12 +33,9 @@ public class Ataque : Enemy
     {
         MovEnemy();
 
-        if (hp <= 0)
+        if (hp == 0 && !isDead)
         {
-            //healthSlider.gameObject.SetActive(false);
-            Animator.SetBool("enemyDeath", true);
-
-            Destroy(gameObject, 1f);
+            Die();
         }
     }
 
@@ -68,6 +68,24 @@ public class Ataque : Enemy
                 // Mueve al enemigo hacia la posición del jugador
                 transform.position = Vector3.MoveTowards(transform.position, playerPosition, moveSpeed * Time.deltaTime);
             }
+        }
+    }
+
+    void Die()
+    {
+        isDead = true;
+        Debug.Log("dead true");
+        Animator.SetTrigger("Die"); // Inicia la animación de muerte
+
+        Rb.velocity = new Vector2(0, -5f);
+        Debug.Log("cayedo");
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (isDead && collision.gameObject.CompareTag("Ground"))
+        {
+            Rb.velocity = Vector2.zero; // Detiene el movimiento al colisionar con el suelo
         }
     }
 }

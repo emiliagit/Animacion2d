@@ -35,6 +35,7 @@ public class PlayerController : MonoBehaviour
     {
         GravityCompensation();
         Movement();
+
         if ((Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.Space)) && IsGrounded())
             Jump();
     }
@@ -89,9 +90,9 @@ public class PlayerController : MonoBehaviour
         else
             animator.SetBool("Moving", false);
 
-        if (yInput == 0f)
-            animator.SetBool("Grounded", true);
-        else
-            animator.SetBool("Grounded", false);
+        //if (yInput == 0f)
+        //    animator.SetBool("Grounded", true);
+        //else
+        //    animator.SetBool("Grounded", false);
     }
 }

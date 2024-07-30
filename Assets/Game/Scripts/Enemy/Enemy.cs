@@ -25,15 +25,8 @@ public abstract class Enemy : MonoBehaviour
 
     public void RecibirDanio()
     {
-        hp -= 10;
-        UpdateHealthUI();
-
-    }
-
-    public void UpdateHealthUI()
-    {
-        hp = Mathf.Clamp(hp, 0, 100);
-        //healthSlider.value = hp;
+        hp -= 1;
+        
 
     }
 

@@ -35,13 +35,13 @@ public class Attack : MonoBehaviour
     {
         Collider[] objetos = Physics.OverlapSphere(controladorGolpe.position, radioGolpe);
 
-        //foreach (Collider colisionador in objetos)
-        //{
-        //    if (colisionador.CompareTag("Enemy"))
-        //    {
-        //        colisionador.transform.GetComponent<EnemyPadre>().RecibirDanio();
-        //    }
-        //}
+        foreach (Collider colisionador in objetos)
+        {
+            if (colisionador.CompareTag("Enemy"))
+            {
+                colisionador.transform.GetComponent < Enemy>().RecibirDanio();
+            }
+        }
     }
 
     private void OnDrawGizmos()

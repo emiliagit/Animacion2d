@@ -20,7 +20,7 @@ public class Ataque : Enemy
     private void Start()
     {
 
-        hp = 100;
+        hp = 2;
         Rb = GetComponent<Rigidbody>();
 
         player = GameObject.FindGameObjectWithTag("Player").transform; // Busca el transform del jugador
@@ -28,10 +28,6 @@ public class Ataque : Enemy
 
     private void Update()
     {
-
-        UpdateHealthUI();
-        //RecibirDanio();
-
         MovEnemy();
 
         if (hp <= 0)

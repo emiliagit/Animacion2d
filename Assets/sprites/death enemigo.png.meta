@@ -1,0 +1,1148 @@
+fileFormatVersion: 2
+guid: b238dee9af6b4f34a9278fb7bdda32b1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: death enemigo_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3406
+        width: 479
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce9ddcc971ee7a46bf1011ddadc5056
+      internalID: 1938930969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3400
+        width: 482
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564af8de1d928894d99f136b8c4da243
+      internalID: -1221804031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_2
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 3395
+        width: 482
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e12ba9293e090346b142104ebe1c412
+      internalID: -606019129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_3
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3390
+        width: 484
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4916f3dc9c4c8264ea15721cec0046cf
+      internalID: -868571051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_4
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 3385
+        width: 486
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f0f6156a7d034ea5ca7bc3203dbd4
+      internalID: 627962323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_5
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 3380
+        width: 486
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced0b14e66c3b04c9fcca696734b0dc
+      internalID: 76758737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_6
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 3376
+        width: 489
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0ff59a86f4c2545b905b490b2afa86
+      internalID: 811547600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_7
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 3373
+        width: 489
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f92f129cb3cb446bfacc2d96d63892
+      internalID: 1009701418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2721
+        width: 489
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6f0ad545165be4d8645254f00ca6e9
+      internalID: 709389476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_9
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2718
+        width: 489
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcebb13048c61743a2ab20c937b65d3
+      internalID: 1938956048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_10
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2714
+        width: 489
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ec569b870e2cf4c9cafc229879d831
+      internalID: -377808644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_11
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 2712
+        width: 491
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd47c6b532075894296e7e1cf8f924df
+      internalID: 643425717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_12
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 2709
+        width: 491
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26840bd2ae165bb4da4f6f713f8af37d
+      internalID: 1484409642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_13
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 2704
+        width: 491
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9943309e69f2d448732edb0b5537a3
+      internalID: 1185362812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_14
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 2697
+        width: 491
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8598850e580524b83045329ca76cb2
+      internalID: -1528307846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_15
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 2689
+        width: 491
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd21f480b65ec0499e42603341642a2
+      internalID: -2100321991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2035
+        width: 491
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61faff7ac444554cb599df5b38a8999
+      internalID: 2069833887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_17
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2028
+        width: 491
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465260810088ef14b82d78a827963510
+      internalID: 383357873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_18
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2020
+        width: 491
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41f3ba8d0fb644e8061482fb08c818
+      internalID: 635659005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_19
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 2013
+        width: 491
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c2518c7da43948858f235299a2d87
+      internalID: 1383276354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_20
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 2005
+        width: 491
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1657e38c1f7bfeb42a19645be91fc4bd
+      internalID: 503896424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_21
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 1998
+        width: 491
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bdcd7666b7e544f9a6799a8eacac8b
+      internalID: 685843118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_22
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 1990
+        width: 490
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c92390b02d0aa4ba9a022bf003ef0a
+      internalID: -1036631596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_23
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 1983
+        width: 489
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0deef0a08f620046a1bd56f44bab4bb
+      internalID: 1347320188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1329
+        width: 489
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05b80cc27ec7a74f8eaeb36034a2dfd
+      internalID: -929734662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_25
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1321
+        width: 489
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd246cccb9b202b4f97a8df9976d1495
+      internalID: -244442051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_26
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1321
+        width: 489
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5622d76ff9da5f4ea443dfc01e03c8e
+      internalID: -405646746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_27
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1321
+        width: 489
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef4d49601aae3243b2715f1ceaf0b43
+      internalID: 398482357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_28
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1321
+        width: 489
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f3d0bccb6f3f741983385e8e9aa261
+      internalID: -1421684496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_29
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 1321
+        width: 489
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6615c23112d614bbf8e0a700ff00d3
+      internalID: 51596809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_30
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 1321
+        width: 489
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c253c8158c570f42b4e921c4c216f09
+      internalID: 533710163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_31
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 1321
+        width: 489
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff84ff87928ac429a5d41703af57ad
+      internalID: -1003394184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 673
+        width: 489
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e70baec1e3ec24c826ae79a2c58646
+      internalID: -562609393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_33
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 673
+        width: 489
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf474171b2b7d44abdc1d6699ce0f17
+      internalID: -656412220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_34
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 673
+        width: 489
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b859b8aabee3aa84d93427f519080d4d
+      internalID: -1777580316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_35
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 673
+        width: 489
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152d6336d6c4a44db23ca9b125adc71
+      internalID: 1346081891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_36
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 673
+        width: 489
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a923855354719b43b71d40ff3d09972
+      internalID: -203112588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_37
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 673
+        width: 489
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c4d8e8ac5f7845b912b02f05df296
+      internalID: -2020531652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_38
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 673
+        width: 489
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545319e1f29bebe4b88a2454b22b5e26
+      internalID: -73341806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_39
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 673
+        width: 489
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9c4ae7c04c0504999b766b357c41ad
+      internalID: 280377790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 25
+        width: 489
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf4daaddfdd62c4e823adf8aeb7963a
+      internalID: 25119059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_41
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 25
+        width: 489
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dbfd3e1dc1a664a893d343652df502
+      internalID: -1455593112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_42
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 25
+        width: 489
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d68dc8ee6120924196e8d2ccbdbc26a
+      internalID: 568013484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_43
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 25
+        width: 489
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4857606df183e844e9ad588c7a3d0ab6
+      internalID: 75248090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_44
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 25
+        width: 489
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51023f1bd79a9bf428535e878fafd200
+      internalID: -1333742434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_45
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 25
+        width: 489
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ecfefbddf921e47b003bc325ef55b8
+      internalID: 389721177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death enemigo_46
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 25
+        width: 489
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c98a2cc486aa749aa95fdabf6fdc46
+      internalID: 1454241452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      death enemigo_0: 1938930969
+      death enemigo_1: -1221804031
+      death enemigo_10: -377808644
+      death enemigo_11: 643425717
+      death enemigo_12: 1484409642
+      death enemigo_13: 1185362812
+      death enemigo_14: -1528307846
+      death enemigo_15: -2100321991
+      death enemigo_16: 2069833887
+      death enemigo_17: 383357873
+      death enemigo_18: 635659005
+      death enemigo_19: 1383276354
+      death enemigo_2: -606019129
+      death enemigo_20: 503896424
+      death enemigo_21: 685843118
+      death enemigo_22: -1036631596
+      death enemigo_23: 1347320188
+      death enemigo_24: -929734662
+      death enemigo_25: -244442051
+      death enemigo_26: -405646746
+      death enemigo_27: 398482357
+      death enemigo_28: -1421684496
+      death enemigo_29: 51596809
+      death enemigo_3: -868571051
+      death enemigo_30: 533710163
+      death enemigo_31: -1003394184
+      death enemigo_32: -562609393
+      death enemigo_33: -656412220
+      death enemigo_34: -1777580316
+      death enemigo_35: 1346081891
+      death enemigo_36: -203112588
+      death enemigo_37: -2020531652
+      death enemigo_38: -73341806
+      death enemigo_39: 280377790
+      death enemigo_4: 627962323
+      death enemigo_40: 25119059
+      death enemigo_41: -1455593112
+      death enemigo_42: 568013484
+      death enemigo_43: 75248090
+      death enemigo_44: -1333742434
+      death enemigo_45: 389721177
+      death enemigo_46: 1454241452
+      death enemigo_5: 76758737
+      death enemigo_6: 811547600
+      death enemigo_7: 1009701418
+      death enemigo_8: 709389476
+      death enemigo_9: 1938956048
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

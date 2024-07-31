@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7094906741840524278}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46,7 +46,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7670869750940475892}
   - component: {fileID: 5109921204144379084}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62,7 +62,7 @@ RectTransform:
   m_GameObject: {fileID: 1105285877080418013}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.05, y: 0.05, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2208545485770245638}
@@ -72,8 +72,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.109, y: 1.9538}
-  m_SizeDelta: {x: 38.5895, y: 12.5516}
+  m_AnchoredPosition: {x: 6.911, y: 0.75}
+  m_SizeDelta: {x: 135.41, y: 36.76}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &5109921204144379084
 MonoBehaviour:
@@ -121,7 +121,7 @@ MonoBehaviour:
   m_Direction: 0
   m_MinValue: 0
   m_MaxValue: 100
-  m_WholeNumbers: 0
+  m_WholeNumbers: 1
   m_Value: 100
   m_OnValueChanged:
     m_PersistentCalls:
@@ -138,9 +138,10 @@ GameObject:
   - component: {fileID: 2378028319006091108}
   - component: {fileID: 4450208793801738831}
   - component: {fileID: 7555865149874598367}
-  m_Layer: 0
+  - component: {fileID: 1435133136589376680}
+  m_Layer: 7
   m_Name: "villano dise\xF1o"
-  m_TagString: Untagged
+  m_TagString: Villano
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -249,16 +250,65 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   damage: 2
-  attackRange: 1.4
-  attackHitDelay: 0.6
-  attackTriggerDistance: 2.3
+  attackRange: 1.5
+  attackHitDelay: 4
+  attackTriggerDistance: 4
   attackPoint: {fileID: 246171833546187442}
   playerLayer:
     serializedVersion: 2
     m_Bits: 256
-  attackSpeed: 0.45
+  attackSpeed: 0.23
   extraDelayUntilSpriteFlip: 0.25
   canvas: {fileID: 7248494480361577438}
+  animator: {fileID: 4450208793801738831}
+  currentHealth: 100
+  playerPosition: {fileID: 0}
+  slider: {fileID: 5109921204144379084}
+--- !u!61 &1435133136589376680
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2356578592715089747}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.097961426, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 8.35, y: 6.72}
+    newSize: {x: 8.35, y: 6.72}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 8.290209, y: 6.72}
+  m_EdgeRadius: 0
 --- !u!1 &2565604275404041446
 GameObject:
   m_ObjectHideFlags: 0
@@ -270,7 +320,7 @@ GameObject:
   - component: {fileID: 2192118117145609704}
   - component: {fileID: 6565661636741985441}
   - component: {fileID: 2665790868570119449}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -333,7 +383,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 4
+  m_PixelsPerUnitMultiplier: 7.82
 --- !u!1 &3658342979110181667
 GameObject:
   m_ObjectHideFlags: 0
@@ -345,7 +395,7 @@ GameObject:
   - component: {fileID: 2208545485770245638}
   - component: {fileID: 7431848987014632835}
   - component: {fileID: 248701863553726360}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -408,7 +458,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 4
+  m_PixelsPerUnitMultiplier: 7.82
 --- !u!1 &7248494480361577438
 GameObject:
   m_ObjectHideFlags: 0
@@ -421,7 +471,7 @@ GameObject:
   - component: {fileID: 68559067303195632}
   - component: {fileID: 1042681307481141728}
   - component: {fileID: 7972856756020370029}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -437,15 +487,15 @@ RectTransform:
   m_GameObject: {fileID: 7248494480361577438}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.03, y: 0.03, z: 0.03}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 7670869750940475892}
   m_Father: {fileID: 3662944324012271168}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 4.02}
   m_SizeDelta: {x: 308, y: 173}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &68559067303195632
@@ -522,7 +572,7 @@ GameObject:
   - component: {fileID: 7707507927742221618}
   - component: {fileID: 8475181240673789758}
   - component: {fileID: 562527628873043635}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -595,7 +645,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1648596411014727843}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -631,7 +681,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 246171833546187442}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: attackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -647,7 +697,7 @@ Transform:
   m_GameObject: {fileID: 9076495609869888445}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.5, y: -0.32, z: 0}
+  m_LocalPosition: {x: -1.8, y: 0.01, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []

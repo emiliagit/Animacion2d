@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: 94fa43ec15e4d8f4795f7281e75057a7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muerte villano_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4269
+        width: 830
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d35574c1cd51cd46a0e9c5e0522db9b
+      internalID: 1519812776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_1
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 4269
+        width: 852
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8538f97bad635ef46b93121f88bdbf5c
+      internalID: -354179692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_2
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 4269
+        width: 865
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f03b0082436034287fae8fee41c3c7
+      internalID: 614882552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_3
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 4269
+        width: 878
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35f6fa16ee922848af9b7634c4a6c73
+      internalID: -1759486111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_4
+      rect:
+        serializedVersion: 2
+        x: 4589
+        y: 4264
+        width: 900
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee43b3aaa4d607e46a067a6f90d419fb
+      internalID: 1516392587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_5
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 4260
+        width: 913
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2536776b084b449b75aa689262170
+      internalID: -1286064456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_6
+      rect:
+        serializedVersion: 2
+        x: 6806
+        y: 4257
+        width: 926
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70bdaf9015f3ac4a8b2e974b1495e55
+      internalID: -797000526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_7
+      rect:
+        serializedVersion: 2
+        x: 7915
+        y: 4255
+        width: 943
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580b41cb6b43d8f42834a4cae147cc9d
+      internalID: 1549982315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3420
+        width: 961
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c8a11535527d540ba65e525a0814da
+      internalID: -1384130265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 3416
+        width: 974
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016b5e78a70ebc84c82fcc3a4d1e9881
+      internalID: 33485698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_10
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 3416
+        width: 986
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a608d8137695544a55c7c815667f94
+      internalID: 525762044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_11
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 3416
+        width: 1000
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e3120f6e0e594c8308da6b498fadc
+      internalID: -955831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_12
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3412
+        width: 1013
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b258609b4d61848b4c38ae9ddd4a61
+      internalID: 501265965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_13
+      rect:
+        serializedVersion: 2
+        x: 5659
+        y: 3412
+        width: 1017
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01526f54156e51344b20a412940e819a
+      internalID: 1246938028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_14
+      rect:
+        serializedVersion: 2
+        x: 6771
+        y: 3412
+        width: 1018
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b76ac46a239224dae15c7c7e1f7952
+      internalID: 877470005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_15
+      rect:
+        serializedVersion: 2
+        x: 7884
+        y: 3412
+        width: 1018
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259daf469d435d74b96bc31edf91e500
+      internalID: 2021466657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2577
+        width: 1022
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f5e1e877ffddc4bb6a84e6382db872
+      internalID: 488821319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_17
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2581
+        width: 1022
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5c288a58ba44145a3eba96d68cbb37
+      internalID: -185599291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_18
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 2581
+        width: 1017
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1721e88e4e03b9b46befa1416b4038a6
+      internalID: 1876798113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_19
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 2581
+        width: 1021
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4f783cfa7f44f4f89ddee3cd439c02
+      internalID: -59088073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_20
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 2581
+        width: 1017
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d10634e15b5835418bfdd065627afcd
+      internalID: 1802077796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_21
+      rect:
+        serializedVersion: 2
+        x: 5646
+        y: 2581
+        width: 1021
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5b8c001faaa647b22b1bfe84f56e1
+      internalID: 487546837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_22
+      rect:
+        serializedVersion: 2
+        x: 6759
+        y: 2581
+        width: 1017
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05151557dacd1d45b56bd3e3416d700
+      internalID: -1333469455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_23
+      rect:
+        serializedVersion: 2
+        x: 7871
+        y: 2581
+        width: 1013
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925428313b070d1419372f97f01887fb
+      internalID: 73320700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1750
+        width: 1009
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307300db9783230479d475f455f987ef
+      internalID: -416381624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_25
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1750
+        width: 1009
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee70b77286b56604385f17ed8aad3f79
+      internalID: -659679095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_26
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 1750
+        width: 1013
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d168f96623ed7c540b7e1c5ba20a30c5
+      internalID: 2047523289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_27
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1750
+        width: 1013
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a311ddc439d6458ca6e261ca70006
+      internalID: -1692736274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_28
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 1750
+        width: 1013
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a26224fcfd540a4bac1a2af032aed7b
+      internalID: 1071019150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_29
+      rect:
+        serializedVersion: 2
+        x: 5641
+        y: 1750
+        width: 1013
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698ea1df10404c94fb43eb09e5a9356e
+      internalID: 928252002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_30
+      rect:
+        serializedVersion: 2
+        x: 6754
+        y: 1750
+        width: 1013
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43a58287ed690d4cab2093062353d6a
+      internalID: 149736347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_31
+      rect:
+        serializedVersion: 2
+        x: 7867
+        y: 1750
+        width: 1013
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda2d81590e2ea46b51e42a608d3d56
+      internalID: 1955154028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 911
+        width: 1013
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514efbebdb4aa074782c30cfb21c8392
+      internalID: 1887452884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_33
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 907
+        width: 1013
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6dd733c682c6e4c92fc3f283c78c55
+      internalID: -878673510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_34
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 898
+        width: 1017
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3bc5386b0fa940bc27cf996ed9cee
+      internalID: 1252301870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_35
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 894
+        width: 1021
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648edb3372e8a374aafc4850c92bde24
+      internalID: 1302151599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_36
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 885
+        width: 1021
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631a9b6d35b8cb4ebece0734f876c31
+      internalID: -28642394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_37
+      rect:
+        serializedVersion: 2
+        x: 5637
+        y: 885
+        width: 1021
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e0a6cba229b3246996cfc9c1df174d
+      internalID: 1866127759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_38
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 885
+        width: 1021
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172fde5513efea74c8df7a401897c0c8
+      internalID: 1010798929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_39
+      rect:
+        serializedVersion: 2
+        x: 7863
+        y: 885
+        width: 1021
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8957618ba14f54c813b9cd3ad571e4
+      internalID: -384577702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 50
+        width: 1021
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1f32b9ba2f8b44c8369d5b63f07553
+      internalID: -1753044509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_41
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 50
+        width: 1021
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72374f90528c3b48acc3e6444134872
+      internalID: -938478672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_42
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 50
+        width: 1021
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bea13b28466b96458256801d7d7bfed
+      internalID: -1139911591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_43
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 50
+        width: 1021
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae4324c92861dc4c8c85d1c21cfce08
+      internalID: 1625909037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_44
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 50
+        width: 1021
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06cfb7b72628ab4a86cd33733f56f48
+      internalID: 938054978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte villano_45
+      rect:
+        serializedVersion: 2
+        x: 5637
+        y: 50
+        width: 1021
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40635c0736b643f4b81575ea10adef14
+      internalID: 34289377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      muerte villano_0: 1519812776
+      muerte villano_1: -354179692
+      muerte villano_10: 525762044
+      muerte villano_11: -955831
+      muerte villano_12: 501265965
+      muerte villano_13: 1246938028
+      muerte villano_14: 877470005
+      muerte villano_15: 2021466657
+      muerte villano_16: 488821319
+      muerte villano_17: -185599291
+      muerte villano_18: 1876798113
+      muerte villano_19: -59088073
+      muerte villano_2: 614882552
+      muerte villano_20: 1802077796
+      muerte villano_21: 487546837
+      muerte villano_22: -1333469455
+      muerte villano_23: 73320700
+      muerte villano_24: -416381624
+      muerte villano_25: -659679095
+      muerte villano_26: 2047523289
+      muerte villano_27: -1692736274
+      muerte villano_28: 1071019150
+      muerte villano_29: 928252002
+      muerte villano_3: -1759486111
+      muerte villano_30: 149736347
+      muerte villano_31: 1955154028
+      muerte villano_32: 1887452884
+      muerte villano_33: -878673510
+      muerte villano_34: 1252301870
+      muerte villano_35: 1302151599
+      muerte villano_36: -28642394
+      muerte villano_37: 1866127759
+      muerte villano_38: 1010798929
+      muerte villano_39: -384577702
+      muerte villano_4: 1516392587
+      muerte villano_40: -1753044509
+      muerte villano_41: -938478672
+      muerte villano_42: -1139911591
+      muerte villano_43: 1625909037
+      muerte villano_44: 938054978
+      muerte villano_45: 34289377
+      muerte villano_5: -1286064456
+      muerte villano_6: -797000526
+      muerte villano_7: 1549982315
+      muerte villano_8: -1384130265
+      muerte villano_9: 33485698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

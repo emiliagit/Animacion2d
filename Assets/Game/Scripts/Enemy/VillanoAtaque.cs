@@ -15,14 +15,14 @@ public class VillanoAtaque : MonoBehaviour
     [SerializeField] private float attackSpeed;
     [SerializeField] private float extraDelayUntilSpriteFlip;
     [SerializeField] private GameObject canvas;
-    private Animator animator;
+    public Animator animator;
     private float nextTimeToAttack;
     private float distanceToPlayer;
 
     public int currentHealth;
 
     private bool isAttacking;
-    private Transform playerPosition;
+    public Transform playerPosition;
     private HealthBar healthBar;
     private Vector2 toPlayerDirection;
 
@@ -31,7 +31,7 @@ public class VillanoAtaque : MonoBehaviour
     private void Start()
     {
         healthBar = GetComponent<HealthBar>();
-        playerPosition = FindObjectOfType<PlayerController>().transform;
+        //playerPosition = FindObjectOfType<PlayerController>().transform;
         animator = GetComponentInChildren<Animator>();
         currentHealth = maxHealth;
 
@@ -47,8 +47,9 @@ public class VillanoAtaque : MonoBehaviour
 
         distanceToPlayer = Vector2.Distance(transform.position, playerPosition.position);
 
-        if (distanceToPlayer <= attackTriggerDistance && !isAttacking && Time.time >= nextTimeToAttack)
+        if (distanceToPlayer <= attackTriggerDistance &&!isAttacking && Time.time >= nextTimeToAttack)
         {
+            Debug.Log("player detectado");
             TriggerAttack();
         }
 
@@ -66,29 +67,36 @@ public class VillanoAtaque : MonoBehaviour
         {
             Die();
         }
-        //else if (!isAttacking)
-            //animator.SetTrigger("Hurt");
+        else if (!isAttacking)
+            animator.SetTrigger("Idle"); 
     }
 
     private void TriggerAttack()
     {
-        isAttacking = true;
+        
         nextTimeToAttack = Time.time + 1f / attackSpeed;
 
         animator.SetTrigger("Attack");
-
+        Debug.Log(("atacando a player"));
         StartCoroutine(AttackAction());
+      
     }
 
     private IEnumerator AttackAction()
     {
+        isAttacking = true;
         yield return new WaitForSeconds(attackHitDelay);
 
         Collider2D[] hitPlayer = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, playerLayer);
 
         foreach (Collider2D player in hitPlayer)
         {
-            player.GetComponent<Health>().RecibirDanio(2);
+            if(player.TryGetComponent(out Health health))
+            {
+                Debug.Log("haciendo daño a player");
+                health.RecibirDanio(2);
+            }
+           
         }
 
         yield return new WaitForSeconds(extraDelayUntilSpriteFlip);

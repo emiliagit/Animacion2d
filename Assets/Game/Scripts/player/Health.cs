@@ -8,14 +8,12 @@ public class Health : MonoBehaviour
 {
     public Slider healthSlider;
 
-
     public float hp;
 
-    
 
     private void Start()
     {
-        hp = 100;
+        hp = 10;
         UpdateHealthUI();
     }
 
@@ -25,11 +23,9 @@ public class Health : MonoBehaviour
         if (hp <= 0)
         {
             SceneManager.LoadScene("GameOver");
-
         }
        
         UpdateHealthUI();
-
     }
 
     public void RecibirDanio(float dmg)
@@ -48,6 +44,5 @@ public class Health : MonoBehaviour
     {
         hp = Mathf.Clamp(hp, 0, 100);
         healthSlider.value = hp;
-
     }
 }

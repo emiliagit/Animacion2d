@@ -50,7 +50,11 @@ public class Attack : MonoBehaviour
 
         foreach (Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponent<Ataque>().RecibirDanio();
+            if(enemy.TryGetComponent(out Ataque ataque))
+            {
+                ataque.RecibirDanio();
+            }
+            
             enemy.GetComponent<VillanoAtaque>().TakeDamage(20);
         }
         

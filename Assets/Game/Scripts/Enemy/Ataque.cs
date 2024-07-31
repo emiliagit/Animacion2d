@@ -87,5 +87,9 @@ public class Ataque : Enemy
         {
             Rb.velocity = Vector2.zero; // Detiene el movimiento al colisionar con el suelo
         }
+        if(collision.gameObject.TryGetComponent(out Health player))
+        {
+            player.RecibirDanio(2);
+        }
     }
 }

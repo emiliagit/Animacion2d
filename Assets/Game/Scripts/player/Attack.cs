@@ -9,13 +9,15 @@ public class Attack : MonoBehaviour
     [SerializeField] private float extraDelayUntilSpriteFlip;
     [SerializeField] private float attackRange;
     [SerializeField] private int damage;
-    [SerializeField] private int scoreLostOnHit;
+
     [SerializeField] private Transform attackPoint;
     [SerializeField] private LayerMask enemyLayer;
     private Animator animator;
     private float nextTimeToAttack;
 
     public static bool isAttacking;
+
+    public float hp;
 
     //[SerializeField] private PlayerStatsScriptableObject playerStats;
 
@@ -48,25 +50,16 @@ public class Attack : MonoBehaviour
 
         foreach (Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponent<Enemy>().RecibirDanio();
+            enemy.GetComponent<Ataque>().RecibirDanio();
+            enemy.GetComponent<VillanoAtaque>().TakeDamage(20);
         }
+        
 
         yield return new WaitForSeconds(extraDelayUntilSpriteFlip);
 
         isAttacking = false;
     }
 
-    //public void TakeDamage(int damageToTake)
-    //{
-    //    playerStats.DecreaseHealth(damageToTake);
-    //    playerStats.IncreaseScore(-scoreLostOnHit);
-
-    //    if (playerStats.currentHealth <= 0)
-    //    {
-    //        GameManager.Instance.GameOver();
-    //        Destroy(gameObject);
-    //    }
-    //}
 
     private void OnDrawGizmosSelected()
     {

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ataque : Enemy
+public class Ataque : MonoBehaviour
 {
     public float radio = 10f; // Radio de detección del jugador
     public float moveSpeed = 0.5f; // Velocidad de movimiento del enemigo
@@ -15,7 +15,11 @@ public class Ataque : Enemy
 
     public Animator Animator;
 
-   
+    public float hp;
+
+    public Transform player;
+
+
     private bool isDead = false;
   
 
@@ -23,7 +27,7 @@ public class Ataque : Enemy
     private void Start()
     {
 
-        //hp = 2;
+        
         Rb = GetComponent<Rigidbody2D>();
 
         player = GameObject.FindGameObjectWithTag("Player").transform; // Busca el transform del jugador
@@ -37,6 +41,12 @@ public class Ataque : Enemy
         {
             Die();
         }
+    }
+
+    public void RecibirDanio()
+    {
+        hp -= 1;
+
     }
 
     private void MovEnemy()

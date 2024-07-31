@@ -1,18 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
-
-public abstract class Enemy : MonoBehaviour
+public class HealthBar : MonoBehaviour
 {
-    //public Slider healthSlider;
-
-    
-
-    private void Start()
+    // Start is called before the first frame update
+    void Start()
     {
-       
+        
     }
 
     // Update is called once per frame
@@ -20,12 +15,4 @@ public abstract class Enemy : MonoBehaviour
     {
         
     }
-
-    
-
-
-
-   
-
-    
 }

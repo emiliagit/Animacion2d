@@ -181,11 +181,11 @@ MonoBehaviour:
   extraDelayUntilSpriteFlip: 0.17
   attackRange: 1
   damage: 1
-  scoreLostOnHit: 1
   attackPoint: {fileID: 16848697}
   enemyLayer:
     serializedVersion: 2
     m_Bits: 128
+  hp: 0
 --- !u!114 &29944718
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -362,11 +362,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11123f08f30443d4ba164821aa5b2536, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 2
-  player: {fileID: 29944716}
   radio: 10
   moveSpeed: 0.7
   Animator: {fileID: 84235298}
+  hp: 2
+  player: {fileID: 29944716}
 --- !u!61 &84235296
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -720,7 +720,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FoodCounterText: {fileID: 1940738416}
-  scenes: []
+  scenes:
+  - 
 --- !u!114 &393747134
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -2132,11 +2132,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7555865149874598367, guid: cf19c3b5abc1952488bab362f15dfbf8, type: 3}
       propertyPath: maxHealth
-      value: 20
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 7555865149874598367, guid: cf19c3b5abc1952488bab362f15dfbf8, type: 3}
       propertyPath: currentHealth
-      value: 20
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 7555865149874598367, guid: cf19c3b5abc1952488bab362f15dfbf8, type: 3}
       propertyPath: playerPosition

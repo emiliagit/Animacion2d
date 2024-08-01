@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Pantalla4.unity
     guid: 84a9376e04008f848816f05822f7184e
   - enabled: 1
-    path: Assets/Scenes/Game Over.unity
+    path: Assets/Scenes/GameOver.unity
     guid: 3f81820028fe62045ae93cce5a045dff
   - enabled: 1
     path: Assets/Scenes/VIctory.unity

@@ -17,7 +17,7 @@ public class Ataque : MonoBehaviour
 
     public float hp;
 
-    public Transform player;
+    private Transform player;
 
 
     private bool isDead = false;

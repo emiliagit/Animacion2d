@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class VillanoAtaque : MonoBehaviour
@@ -66,10 +67,14 @@ public class VillanoAtaque : MonoBehaviour
         if (currentHealth <= 0)
         {
             Die();
+            StartCoroutine(LoadSceneAfterDelay(1f));
+
         }
         else if (!isAttacking)
             animator.SetTrigger("Idle"); 
     }
+
+  
 
     private void TriggerAttack()
     {
@@ -118,12 +123,12 @@ public class VillanoAtaque : MonoBehaviour
         if (toPlayerDirection.x < 0f)
         {
             transform.localScale = new(0.5f, 0.5f, 0.5f);
-            canvas.transform.localScale = new(0.03f, 0.03f, 0.03f);
+            canvas.transform.localScale = new(0.02f, 0.02f, 0.02f);
         }
         else if (toPlayerDirection.x > 0f)
         {
             transform.localScale = new(-0.5f, 0.5f, 0.5f);
-            canvas.transform.localScale = new(-0.03f, 0.03f, 0.03f);
+            canvas.transform.localScale = new(-0.02f, 0.02f, 0.02f);
         }
     }
 
@@ -131,10 +136,20 @@ public class VillanoAtaque : MonoBehaviour
     {
         animator.SetTrigger("Die");
 
-        StopAllCoroutines();
-        healthBar.enabled = false;
+        
+
+        //StopAllCoroutines();
+        slider.enabled = false;
 
         GetComponent<Collider2D>().enabled = false;
         this.enabled = false;
+    }
+
+    IEnumerator LoadSceneAfterDelay(float delay)
+    {
+        // Esperar el tiempo especificado
+        yield return new WaitForSeconds(delay);
+        // Cargar la escena
+        SceneManager.LoadScene("Victory");
     }
 }

@@ -11,12 +11,10 @@ public class CollectibleCount : MonoBehaviour
 
     private GameObject[] Food;
 
-    [SerializeField] private string[] scenes;
-    private int currentSceneIndex;
-
+    [SerializeField] private string nextLevelScene;
     private void Start()
     {
-        currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        
     }
 
     void Update()
@@ -32,22 +30,14 @@ public class CollectibleCount : MonoBehaviour
 
         if (FoodCount == 0)
         {
-            GoToNextScene();
+            NextLevel2(nextLevelScene);
         }
     }
 
-    private void GoToNextScene()
+    private void NextLevel2(string level)
     {
-        currentSceneIndex++;
-        if (currentSceneIndex < scenes.Length)
-        {
-            SceneManager.LoadScene(scenes[currentSceneIndex]);
-        }
-        else
-        {
-            // If there are no more scenes, handle end of game (e.g., show game over screen, credits, etc.)
-            Debug.Log("End of game!");
-        }
-
+        SceneManager.LoadScene(level);
     }
+
+
 }

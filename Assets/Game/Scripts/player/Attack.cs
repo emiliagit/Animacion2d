@@ -54,8 +54,12 @@ public class Attack : MonoBehaviour
             {
                 ataque.RecibirDanio();
             }
+            if(enemy.TryGetComponent(out VillanoAtaque villano))
+            {
+                villano.TakeDamage(20);
+            }
             
-            enemy.GetComponent<VillanoAtaque>().TakeDamage(20);
+            
         }
         
 

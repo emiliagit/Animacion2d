@@ -1,4 +1,5 @@
 https://youtu.be/BTpsUWmEq5E
 
 
-[diseño y animacion 2d-GDD.pdf](https://github.com/user-attachments/files/16553783/diseno.y.animacion.2d-GDD.pdf)
+
+[Diseño y Animacion-GDD.docx](https://github.com/user-attachments/files/16553859/Diseno.y.Animacion-GDD.docx)
